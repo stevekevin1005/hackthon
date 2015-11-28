@@ -110,13 +110,7 @@ Follow: http://www.twitter.com/themehats
                 <div class="container">
                     <!-- Begin: Testimonals 1 component -->
                     <div class="c-content-person-1-slider" data-slider="owl" data-items="3" data-auto-play="8000">
-                        <!-- Begin: Title 1 component -->
-                        <div class="c-content-title-1">
-                            <h3 class="c-center c-font-uppercase c-font-bold">Meet The Team  </h3>
-                            <div class="c-line-center c-theme-bg"></div>
-                        </div>
-                        <!-- End-->
-        <!-- Begin: Owlcarousel -->
+                        <!-- Begin: Owlcarousel -->
                         <div class="owl-carousel owl-theme c-theme">
 ​
                           <!-- New01 -->
@@ -281,7 +275,7 @@ Follow: http://www.twitter.com/themehats
                                 <a href="#tab-01" role="tab" data-toggle="tab">市政新聞</a>
                             </li>
                             <li role="presentation">
-                                <a href="#tab-02" role="tab" data-toggle="tab">科技園區</a>
+                                <a href="#tab-02" role="tab" data-toggle="tab">活動訊息</a>
                             </li>
                             <li role="presentation">
                                 <a href="#tab-03" role="tab" data-toggle="tab">一般公告</a>
@@ -337,7 +331,7 @@ Follow: http://www.twitter.com/themehats
                                   <div class="panel">
                                     <div class="panel-heading" role="tab" id="tab-01-4-1">
                                         <h4 class="panel-title">
-                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion" href="#tab-01-4-2" aria-expanded="false" aria-controls="#tab-01-4-2">處理違規停車 查獲違法槍毒<span style="float:right; font-size:14px; color:#333">2015/11/27</span></a>
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion" href="#tab-01-4-2" aria-expanded="false" aria-controls="#tab-01-4-2"><span style="float:right; font-size:14px; color:#333">2015/11/27</span>處理違規停車 查獲違法槍毒</a>
                                         </h4>
                                     </div>
                                     <div id="tab-01-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-01-4-1">
@@ -352,19 +346,18 @@ Follow: http://www.twitter.com/themehats
                               <div style="position:absolute; right:30px; bottom:10px"><a href="#" style="float:left">More<span class="glyphicon glyphicon-chevron-right"></span></a></div>
                             </div>
 
-                          <!-- 科技園區 -->
+                          <!-- 活動訊息 -->
                             <div role="tabpanel" class="tab-pane fade" id="tab-02">
                               <div class="c-content-accordion-1 c-theme">
                                 <div class="panel-group" id="accordion-2" role="tablist">
                                   <div class="panel">
                                     <div class="panel-heading" role="tab" id="tab-02-1-1">
                                       <h4 class="panel-title">
-                                        <a class="c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-2" href="#tab-02-1-2" aria-expanded="true" aria-controls="#tab-02-1-2"><span style="float:right; font-size:14px; color:#333;">2015/11/28</span>「2015新竹黑客松─市府官網設計大賽」 林智堅巿長：提供嶄新官網服務</a>
+                                        <a class="c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-2" href="#tab-02-1-2" aria-expanded="true" aria-controls="#tab-02-1-2"><span style="float:right; font-size:14px; color:#333; margin:3px">104-12-08~104-12-08</span>104年<br>新新竹 薪幸福 現場徵才活動暨職業訓練成果展</a>
                                       </h4>
                                     </div>
                                     <div id="tab-02-1-2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="tab-02-1-1">
                                       <div class="panel-body">
-                                        <p class="c-font-14">新竹市政府為促進官網優質化，符合民眾需求，於今(28)、明兩日舉辦「2015新竹黑客松─市府官網設計大賽」活動，林智堅市長上午在市府一樓大廳鳴槍，宣布長達33小時活動開跑，活動總獎金高達新台幣17萬元，共吸引21組65位網路高手報名參加，參賽者個個身懷網路絕技，努力合作完成市府官網的「黑客松版本」，過程酷炫精采。</p>
                                         <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                       </div>
                                     </div>
@@ -372,12 +365,11 @@ Follow: http://www.twitter.com/themehats
                                   <div class="panel">
                                     <div class="panel-heading" role="tab" id="tab-02-2-1">
                                         <h4 class="panel-title">
-                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-2" href="#tab-02-2-2" aria-expanded="false" aria-controls="#tab-02-2-2"><span style="float:right; font-size:14px; color:#333; ">2015/11/27</span>第9屆立法委員選舉 新竹市選舉區23-27日期間登記情形</a>
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-2" href="#tab-02-2-2" aria-expanded="false" aria-controls="#tab-02-2-2"><span style="float:right; font-size:14px; color:#333; margin:3px">104-12-02~104-12-09</span>12月親密之旅<br>~遇見幸福成長研習班 邀您學習創造生活的小幸福~</a>
                                         </h4>
                                     </div>
                                     <div id="tab-02-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-02-2-1">
                                         <div class="panel-body c-font-14">
-                                          <p class="c-font-14">新竹市選委會今(27)日表示，第9屆立法委員選舉新竹市選舉區，截至登記日(27日)結束計有10人完成登記手續，詳細名單如下： <br>親民黨歐崇敬、民主進步黨柯建銘（現任立法委員）、中國國民黨鄭正鈐（現任新竹市議員）、軍公教聯盟黨魏揚、時代力量邱顯智、自由台灣黨林家宇、無黨籍曾耀澂、黃源甫、王榮德、吳淑敏等10人。</p>
                                           <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
@@ -385,12 +377,11 @@ Follow: http://www.twitter.com/themehats
                                   <div class="panel">
                                     <div class="panel-heading" role="tab" id="tab-02-3-1">
                                         <h4 class="panel-title">
-                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-2" href="#tab-02-3-2" aria-expanded="false" aria-controls="#tab-02-3-2"><span style="float:right; font-size:14px; color:#333">2015/11/27</span> 105年（第1次）役男申請服一般替代役自104年12月1日開始<br>受理</a>
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-2" href="#tab-02-3-2" aria-expanded="false" aria-controls="#tab-02-3-2"><span style="float:right; font-size:14px; color:#333; margin:3px">104-11-28~104-11-28</span>「捐發票　送好康」<br>租稅宣導活動，邀請民眾共襄盛舉！</a>
                                         </h4>
                                     </div>
                                     <div id="tab-02-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-02-3-1">
                                         <div class="panel-body c-font-14">
-                                          <p class="c-font-14">新竹市政府民政處今(27)表示，內政部役政署公告民國105年（第1次）役男申請服一般替代役之對象條件及相關作業規定，申請時間自12月1日上午8時至12月14日下午5時止。</p>
                                           <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
@@ -398,12 +389,23 @@ Follow: http://www.twitter.com/themehats
                                   <div class="panel">
                                     <div class="panel-heading" role="tab" id="tab-02-4-1">
                                         <h4 class="panel-title">
-                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-2" href="#tab-02-4-2" aria-expanded="false" aria-controls="#tab-02-4-2">處理違規停車 查獲違法槍毒<span style="float:right; font-size:14px; color:#333">2015/11/27</span></a>
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-2" href="#tab-02-4-2" aria-expanded="false" aria-controls="#tab-02-4-2"><span style="float:right; font-size:14px; color:#333; margin:3px">104-11-27~104-12-27</span>「新竹‧漫步小旅行」1小時免費導覽服務</a>
                                         </h4>
                                     </div>
                                     <div id="tab-02-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-02-4-1">
                                         <div class="panel-body c-font-14">
-                                          <p class="c-font-14">在本（27）日凌晨5時許南門派出所所長黃明祥執服巡邏勤務，接獲報案前往本市東區食品路326巷22弄處理違停車輛，經通知該部違停車主前來移車時，眼尖的所長發現另部違停車主張姓男子前來移車時神色慌張以為事跡敗露，警方前往查捕、形跡可疑，遂趨前盤查，在徵得同意後 ⋯⋯</p>
+                                          <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
+                                        </div>
+                                    </div>
+                                  </div>
+                                  <div class="panel">
+                                    <div class="panel-heading" role="tab" id="tab-02-5-1">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-2" href="#tab-02-5-2" aria-expanded="false" aria-controls="#tab-02-5-2"><span style="float:right; font-size:14px; color:#333; margin:3px">104-11-27~105-02-04</span>冬季有氧提斯初級班開始招生囉！！</a>
+                                        </h4>
+                                    </div>
+                                    <div id="tab-02-5-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-02-5-1">
+                                        <div class="panel-body c-font-14">
                                           <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
@@ -420,12 +422,11 @@ Follow: http://www.twitter.com/themehats
                                   <div class="panel">
                                     <div class="panel-heading" role="tab" id="tab-03-1-1">
                                       <h4 class="panel-title">
-                                        <a class="c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-3" href="#tab-03-1-2" aria-expanded="true" aria-controls="#tab-03-1-2"><span style="float:right; font-size:14px; color:#333;">2015/11/28</span>「2015新竹黑客松─市府官網設計大賽」 林智堅巿長：提供嶄新官網服務</a>
+                                        <a class="c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-3" href="#tab-03-1-2" aria-expanded="true" aria-controls="#tab-03-1-2"><span style="float:right; font-size:14px; color:#333;">2015/11/26</span>105年殯儀館暨園區周邊環境清潔維護等勞務委託<br>第二次公開招標</a>
                                       </h4>
                                     </div>
                                     <div id="tab-03-1-2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="tab-03-1-1">
                                       <div class="panel-body">
-                                        <p class="c-font-14">新竹市政府為促進官網優質化，符合民眾需求，於今(28)、明兩日舉辦「2015新竹黑客松─市府官網設計大賽」活動，林智堅市長上午在市府一樓大廳鳴槍，宣布長達33小時活動開跑，活動總獎金高達新台幣17萬元，共吸引21組65位網路高手報名參加，參賽者個個身懷網路絕技，努力合作完成市府官網的「黑客松版本」，過程酷炫精采。</p>
                                         <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                       </div>
                                     </div>
@@ -433,12 +434,11 @@ Follow: http://www.twitter.com/themehats
                                   <div class="panel">
                                     <div class="panel-heading" role="tab" id="tab-03-2-1">
                                         <h4 class="panel-title">
-                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-3" href="#tab-03-2-2" aria-expanded="false" aria-controls="#tab-03-2-2"><span style="float:right; font-size:14px; color:#333; ">2015/11/27</span>第9屆立法委員選舉 新竹市選舉區23-27日期間登記情形</a>
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-3" href="#tab-03-2-2" aria-expanded="false" aria-controls="#tab-03-2-2"><span style="float:right; font-size:14px; color:#333; ">2015/11/27</span>本府城市行銷處委任第五職等或薦任第六至第七職等<br>土木工程職系技士職務出缺辦理外補公告</a>
                                         </h4>
                                     </div>
                                     <div id="tab-03-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-03-2-1">
                                         <div class="panel-body c-font-14">
-                                          <p class="c-font-14">新竹市選委會今(27)日表示，第9屆立法委員選舉新竹市選舉區，截至登記日(27日)結束計有10人完成登記手續，詳細名單如下： <br>親民黨歐崇敬、民主進步黨柯建銘（現任立法委員）、中國國民黨鄭正鈐（現任新竹市議員）、軍公教聯盟黨魏揚、時代力量邱顯智、自由台灣黨林家宇、無黨籍曾耀澂、黃源甫、王榮德、吳淑敏等10人。</p>
                                           <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
@@ -446,25 +446,11 @@ Follow: http://www.twitter.com/themehats
                                   <div class="panel">
                                     <div class="panel-heading" role="tab" id="tab-03-3-1">
                                         <h4 class="panel-title">
-                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-3" href="#tab-03-3-2" aria-expanded="false" aria-controls="#tab-03-3-2"><span style="float:right; font-size:14px; color:#333">2015/11/27</span> 105年（第1次）役男申請服一般替代役自104年12月1日開始<br>受理</a>
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-3" href="#tab-03-3-2" aria-expanded="false" aria-controls="#tab-03-3-2"><span style="float:right; font-size:14px; color:#333">2015/11/25</span>新竹市政府社會處公開進用臨時計時人員徵才資料</a>
                                         </h4>
                                     </div>
                                     <div id="tab-03-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-03-3-1">
                                         <div class="panel-body c-font-14">
-                                          <p class="c-font-14">新竹市政府民政處今(27)表示，內政部役政署公告民國105年（第1次）役男申請服一般替代役之對象條件及相關作業規定，申請時間自12月1日上午8時至12月14日下午5時止。</p>
-                                          <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
-                                        </div>
-                                    </div>
-                                  </div>
-                                  <div class="panel">
-                                    <div class="panel-heading" role="tab" id="tab-03-4-1">
-                                        <h4 class="panel-title">
-                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-3" href="#tab-03-4-2" aria-expanded="false" aria-controls="#tab-03-4-2">處理違規停車 查獲違法槍毒<span style="float:right; font-size:14px; color:#333">2015/11/27</span></a>
-                                        </h4>
-                                    </div>
-                                    <div id="tab-03-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-03-4-1">
-                                        <div class="panel-body c-font-14">
-                                          <p class="c-font-14">在本（27）日凌晨5時許南門派出所所長黃明祥執服巡邏勤務，接獲報案前往本市東區食品路326巷22弄處理違停車輛，經通知該部違停車主前來移車時，眼尖的所長發現另部違停車主張姓男子前來移車時神色慌張以為事跡敗露，警方前往查捕、形跡可疑，遂趨前盤查，在徵得同意後 ⋯⋯</p>
                                           <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
@@ -481,12 +467,11 @@ Follow: http://www.twitter.com/themehats
                                   <div class="panel">
                                     <div class="panel-heading" role="tab" id="tab-04-1-1">
                                       <h4 class="panel-title">
-                                        <a class="c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-4" href="#tab-04-1-2" aria-expanded="true" aria-controls="#tab-04-1-2"><span style="float:right; font-size:14px; color:#333;">2015/11/28</span>「2015新竹黑客松─市府官網設計大賽」 林智堅巿長：提供嶄新官網服務</a>
+                                        <a class="c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-4" href="#tab-04-1-2" aria-expanded="true" aria-controls="#tab-04-1-2"><span style="float:right; font-size:14px; color:#333;">2015/12/03</span>頂埔里活動中心體健設施等二件工程</a>
                                       </h4>
                                     </div>
                                     <div id="tab-04-1-2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="tab-04-1-1">
                                       <div class="panel-body">
-                                        <p class="c-font-14">新竹市政府為促進官網優質化，符合民眾需求，於今(28)、明兩日舉辦「2015新竹黑客松─市府官網設計大賽」活動，林智堅市長上午在市府一樓大廳鳴槍，宣布長達33小時活動開跑，活動總獎金高達新台幣17萬元，共吸引21組65位網路高手報名參加，參賽者個個身懷網路絕技，努力合作完成市府官網的「黑客松版本」，過程酷炫精采。</p>
                                         <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                       </div>
                                     </div>
@@ -494,12 +479,11 @@ Follow: http://www.twitter.com/themehats
                                   <div class="panel">
                                     <div class="panel-heading" role="tab" id="tab-04-2-1">
                                         <h4 class="panel-title">
-                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-4" href="#tab-04-2-2" aria-expanded="false" aria-controls="#tab-04-2-2"><span style="float:right; font-size:14px; color:#333; ">2015/11/27</span>第9屆立法委員選舉 新竹市選舉區23-27日期間登記情形</a>
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-4" href="#tab-04-2-2" aria-expanded="false" aria-controls="#tab-04-2-2"><span style="float:right; font-size:14px; color:#333; ">2015/12/10</span>十七公里沿線修繕工程</a>
                                         </h4>
                                     </div>
                                     <div id="tab-04-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-04-2-1">
                                         <div class="panel-body c-font-14">
-                                          <p class="c-font-14">新竹市選委會今(27)日表示，第9屆立法委員選舉新竹市選舉區，截至登記日(27日)結束計有10人完成登記手續，詳細名單如下： <br>親民黨歐崇敬、民主進步黨柯建銘（現任立法委員）、中國國民黨鄭正鈐（現任新竹市議員）、軍公教聯盟黨魏揚、時代力量邱顯智、自由台灣黨林家宇、無黨籍曾耀澂、黃源甫、王榮德、吳淑敏等10人。</p>
                                           <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
@@ -507,12 +491,11 @@ Follow: http://www.twitter.com/themehats
                                   <div class="panel">
                                     <div class="panel-heading" role="tab" id="tab-04-3-1">
                                         <h4 class="panel-title">
-                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-4" href="#tab-04-3-2" aria-expanded="false" aria-controls="#tab-04-3-2"><span style="float:right; font-size:14px; color:#333">2015/11/27</span> 105年（第1次）役男申請服一般替代役自104年12月1日開始<br>受理</a>
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-4" href="#tab-04-3-2" aria-expanded="false" aria-controls="#tab-04-3-2"><span style="float:right; font-size:14px; color:#333">2015/12/10</span>新竹市立南隘國民小學運動場地整修工程</a>
                                         </h4>
                                     </div>
                                     <div id="tab-04-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-04-3-1">
                                         <div class="panel-body c-font-14">
-                                          <p class="c-font-14">新竹市政府民政處今(27)表示，內政部役政署公告民國105年（第1次）役男申請服一般替代役之對象條件及相關作業規定，申請時間自12月1日上午8時至12月14日下午5時止。</p>
                                           <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
@@ -520,12 +503,11 @@ Follow: http://www.twitter.com/themehats
                                   <div class="panel">
                                     <div class="panel-heading" role="tab" id="tab-04-4-1">
                                         <h4 class="panel-title">
-                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-4" href="#tab-04-4-2" aria-expanded="false" aria-controls="#tab-04-4-2">處理違規停車 查獲違法槍毒<span style="float:right; font-size:14px; color:#333">2015/11/27</span></a>
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-4" href="#tab-04-4-2" aria-expanded="false" aria-controls="#tab-04-4-2"><span style="float:right; font-size:14px; color:#333">2015/12/03</span>新竹市政府105年度辦理關懷獨居老人個案服務實施計畫</a>
                                         </h4>
                                     </div>
                                     <div id="tab-04-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-04-4-1">
                                         <div class="panel-body c-font-14">
-                                          <p class="c-font-14">在本（27）日凌晨5時許南門派出所所長黃明祥執服巡邏勤務，接獲報案前往本市東區食品路326巷22弄處理違停車輛，經通知該部違停車主前來移車時，眼尖的所長發現另部違停車主張姓男子前來移車時神色慌張以為事跡敗露，警方前往查捕、形跡可疑，遂趨前盤查，在徵得同意後 ⋯⋯</p>
                                           <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
@@ -547,7 +529,148 @@ Follow: http://www.twitter.com/themehats
                         <div class="cbp-item web-design logos">
                           <div class="cbp-caption">
                             <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/07.jpg" alt="">
+                              <img src="assets/base/img/content/stock/c-01.jpg" style="float:left; z-index:-1">
+                              <i class="fa fa-gavel fa-5x" style="float:left; position:absolute"></i>
+                            </div>
+                            <div class="cbp-caption-activeWrap">
+                              <div class="c-masonry-border"></div>
+                              <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                  <p style="color:#fff">新竹市 APP</p>
+                                  <a href="#" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">Explore</a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                        <div class="cbp-item web-design logos">
+                          <div class="cbp-caption">
+                            <div class="cbp-caption-defaultWrap">
+                              <img src="assets/base/img/content/stock/c-02.jpg" alt="">
+                            </div>
+                            <div class="cbp-caption-activeWrap">
+                              <div class="c-masonry-border"></div>
+                              <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                  <p style="color:#fff">e 好辦</p>
+                                  <a href="ajax/projects/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                        <div class="cbp-item web-design logos">
+                          <div class="cbp-caption">
+                            <div class="cbp-caption-defaultWrap">
+                              <img src="assets/base/img/content/stock/c-03.jpg" alt="">
+                            </div>
+                            <div class="cbp-caption-activeWrap">
+                              <div class="c-masonry-border"></div>
+                              <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                  <p style="color:#fff">市長臉書</p>
+                                  <a href="ajax/projects/project3.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                        <div class="cbp-item web-design logos">
+                          <div class="cbp-caption">
+                            <div class="cbp-caption-defaultWrap">
+                              <img src="assets/base/img/content/stock/c-04.jpg" alt="">
+                            </div>
+                            <div class="cbp-caption-activeWrap">
+                              <div class="c-masonry-border"></div>
+                              <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                  <p style="color:#fff">服務中心</p>
+                                  <a href="ajax/projects/project4.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                        <div class="cbp-item web-design logos">
+                          <div class="cbp-caption">
+                            <div class="cbp-caption-defaultWrap">
+                              <img src="assets/base/img/content/stock/c-05.jpg" alt="">
+                            </div>
+                            <div class="cbp-caption-activeWrap">
+                              <div class="c-masonry-border"></div>
+                              <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                  <p style="color:#fff">服務專線</p>
+                                  <a href="ajax/projects/project5.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                        <div class="cbp-item web-design logos">
+                          <div class="cbp-caption">
+                            <div class="cbp-caption-defaultWrap">
+                              <img src="assets/base/img/content/stock/c-06.jpg" alt="">
+                            </div>
+                            <div class="cbp-caption-activeWrap">
+                              <div class="c-masonry-border"></div>
+                              <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                  <p style="color:#fff">服務信箱</p>
+                                  <a href="ajax/projects/project6.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                        <div class="cbp-item web-design logos">
+                          <div class="cbp-caption">
+                            <div class="cbp-caption-defaultWrap">
+                              <img src="assets/base/img/content/stock/c-07.jpg" alt="">
+                            </div>
+                            <div class="cbp-caption-activeWrap">
+                              <div class="c-masonry-border"></div>
+                              <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                  <p style="color:#fff">交通資訊</p>
+                                  <a href="ajax/projects/project7.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                        <div class="cbp-item web-design logos">
+                          <div class="cbp-caption">
+                            <div class="cbp-caption-defaultWrap">
+                              <img src="assets/base/img/content/stock/c-08.jpg" alt="">
                             </div>
                             <div class="cbp-caption-activeWrap">
                               <div class="c-masonry-border"></div>
@@ -567,145 +690,13 @@ Follow: http://www.twitter.com/themehats
                         <div class="cbp-item web-design logos">
                           <div class="cbp-caption">
                             <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/07.jpg" alt="">
+                              <img src="assets/base/img/content/stock/c-09.jpg" alt="">
                             </div>
                             <div class="cbp-caption-activeWrap">
                               <div class="c-masonry-border"></div>
                               <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
-                                  <a href="ajax/projects/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/07.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <a href="ajax/projects/project3.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/07.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <a href="ajax/projects/project4.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/07.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <a href="ajax/projects/project5.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/07.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <a href="ajax/projects/project6.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/07.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <a href="ajax/projects/project7.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/07.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <a href="ajax/projects/project8.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/07.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
+                                  <p style="color:#fff">更多服務</p>
                                   <a href="ajax/projects/project9.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
                                 </div>
                               </div>

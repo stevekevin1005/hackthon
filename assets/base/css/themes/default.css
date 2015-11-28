@@ -2,7 +2,7 @@
 THEME COLOR - DEFAULT
 *********************/
 a {
-  color: #3f444a; }
+  /*color: #3f444a;*/ }
   a:active,
   a:hover,
   a:focus {
