@@ -96,7 +96,7 @@
                                 </a>
                             </li>
                             <li class="dropdown-submenu">
-                                <a href="javascript:;">案子發包
+                                <a href="standard_case.php">政府標案
                                     <span class="c-arrow c-toggler"></span>
                                 </a>
                             </li>
@@ -116,17 +116,7 @@
                                 <a href="page_person.php">市長</a>
                             </li>
                             <li class="dropdown-submenu">
-                                <a href="page_team.php">財政處</a>
-                            </li>
-                            <li class="dropdown-submenu">
-                                <a href="javascript:;">法制處
-                                    <span class="c-arrow c-toggler"></span>
-                                </a>
-                            </li>
-                            <li class="dropdown-submenu">
-                                <a href="page-extended-portfolio.html">秘書處
-                                    <span class="c-arrow c-toggler"></span>
-                                </a>
+                                <a href="all_department.php">各處部門</a>
                             </li>
                         </ul>
                     </li>
