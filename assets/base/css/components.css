@@ -9649,7 +9649,7 @@ h1 {
   text-align: center; }
   .c-content-tab-4 > .nav > li > a {
     font-weight: 600;
-    padding: 20px 15px;
+    padding: 10px 15px;
     border: 0;
     overflow: hidden;
     white-space: nowrap;
@@ -9735,26 +9735,31 @@ h1 {
 
 .c-content-tab-4.c-opt-3 > .nav > li > a {
   color: #ffffff;
-  background-color: #d5e0ea; }
+  background-color: #B1BEC7;
+  border-radius: 10px 10px 0px 0px; }
   .c-content-tab-4.c-opt-3 > .nav > li > a:hover, .c-content-tab-4.c-opt-3 > .nav > li > a:focus {
     background-color: #6f95b7; }
 
 .c-content-tab-4.c-opt-3 > .nav > li.active > a,
 .c-content-tab-4.c-opt-3 > .nav > li:active > a {
   color: #ffffff;
-  background-color: #5bc2ce; }
+  background-color: #32c5d2;
+  border-radius: 10px 10px 0px 0px; }
 
 .c-content-tab-4.c-opt-3 > .nav > li:nth-child(even) > a {
-  background-color: #cfdae4; }
+  background-color: #c0cfd8; }
   .c-content-tab-4.c-opt-3 > .nav > li:nth-child(even) > a:hover, .c-content-tab-4.c-opt-3 > .nav > li:nth-child(even) > a:focus {
     background-color: #6d8fad; }
 
 .c-content-tab-4.c-opt-3 > .nav > li:nth-child(even).active > a, .c-content-tab-4.c-opt-3 > .nav > li:nth-child(even):active > a {
   color: #ffffff;
-  background-color: #5bc2ce; }
+
+  background-color: #32c5d2;}
 
 .c-content-tab-4.c-opt-3 > .tab-content {
-  background-color: #f6f9fb; }
+  background-color: #f6f9fb;
+  height: 415px; }
+
   .c-content-tab-4.c-opt-3 > .tab-content .c-tab-items > li h4 {
     color: #5f6f77; }
   .c-content-tab-4.c-opt-3 > .tab-content .c-tab-items > li p {
@@ -10131,7 +10136,7 @@ h1 {
         transition: all 0.2s;
         color: #fff;
         display: block;
-        padding: 30px 30px 25px 30px;
+        padding: 20px;
         border-radius: 0;
         box-shadow: none; }
         .c-content-accordion-1 .panel > .panel-heading > .panel-title > a > i {
@@ -10146,7 +10151,7 @@ h1 {
             transition: all 0.2s; }
   .c-content-accordion-1 .panel > .panel-collapse > .panel-body {
     border-top: none;
-    padding: 0px 30px 35px 30px;
+    padding: 0px 30px 20px 30px;
     color: #ffffff; }
 
 .c-content-accordion-1.c-accordion-white .panel > .panel-heading > .panel-title > a {
