@@ -160,9 +160,7 @@ Follow: http://www.twitter.com/themehats
 										也滿足當地學子入學需求，
 										未來市府會持續在教育工作上做更多努力，
 										提供最優質的教育品質及環境，
-										讓新竹市每一位孩子都能快樂學習。 
-										關東國小上午舉行南棟校舍興建工程動土典禮，全校師生開心迎接歷史的一刻....(詳全文)(未做超連結)
-										(新聞內容) </p>
+										讓新竹市每一位孩子都能快樂學習....(詳全文)</p>
                                     </div>
                                 </div>
                             </div>
@@ -210,7 +208,7 @@ Follow: http://www.twitter.com/themehats
 										活動總獎金高達新台幣17萬元，
 										共吸引21組65位網路高手報名參加，
 										參賽者個個身懷網路絕技，
-										努力合作完成市府官網的「黑客松版本」，過程酷炫精采......(詳全文) </p>
+										努力合作完成市府官網的「黑客松版本」，過程酷炫精采......(詳全文)<p></p>
                                     </div>
                                 </div>
                             </div>
@@ -277,7 +275,7 @@ Follow: http://www.twitter.com/themehats
                                         <img src="assets/base/img/content/news/picture/gun.jpg" class="img-responsive c-overlay-object" alt=""> </div>
                                     <div class="c-body">
                                         <div class="c-head">
-                                            <div class="c-name c-font-uppercase c-font-bold">淨化選前治安</div>
+                                            <div class="c-name c-font-uppercase c-font-bold">淨化選前治安</div></br>
                                             <ul class="c-socials c-theme-ul">
                                                 <li>
                                                     <a href="#">
@@ -303,7 +301,11 @@ Follow: http://www.twitter.com/themehats
 										新竹市警察局第一分局執行查緝非法槍彈行動，
 										於昨(26)日15時許，
 										在新竹市五福路二段附近查獲槍砲案通緝許○豪到案，
-										並起獲改造手槍(含彈匣)1枝、改造子彈6顆、毒品海洛因5.98公克、安非他命7公克及偽變造車輛號牌14面等物品......(詳全文) </p>
+										並起獲改造手槍(含彈匣)1枝、
+										改造子彈6顆、
+										毒品海洛因5.98公克、
+										安非他命7公克
+										及偽變造車輛號牌14面等物品。......(詳全文)<p></p>
                                     </div>
                                 </div>
                             </div>
@@ -352,14 +354,7 @@ Follow: http://www.twitter.com/themehats
 										當場命令停止製造及加工，
 										並將庫存產品封存，
 										責令業者不得包裝、運送、販賣及輸出，
-										主要銷售對象為桃園、新竹縣市早餐業，
-										新竹市衛生局派員至轄內15家下游早餐業者查核，
-										下架違規食品「蘿蔔 糕」共計 10片，
-										業者已自行銷毀；
-										下架違規食品「蛋餅皮」共計343片，
-										其中200片業者已現場銷毀；
-										衛生局將持續稽查監督業者退貨情形，
-										以維護民眾食品衛生安全......(詳全文) </p>
+										主要銷售對象為桃園、新竹縣市早餐業......(詳全文)</br> </p>
                                     </div>
                                 </div>
                             </div>
