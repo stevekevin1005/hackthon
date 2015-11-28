@@ -370,7 +370,7 @@ Follow: http://www.twitter.com/themehats
         <!-- BEGIN: CONTENT/TABS/TAB-3 -->
         <div class="c-content-box c-size-md">
             <div class="container">
-                <div class="col-md-8 col-sm-12">
+                <div class="col-md-6 col-sm-12">
                     <div class="c-content-tab-4 c-opt-3" role="tabpanel">
                         <ul class="nav nav-justified" role="tablist">
                             <li role="presentation" class="active">
@@ -387,16 +387,17 @@ Follow: http://www.twitter.com/themehats
                             </li>
                         </ul>
                         <div class="tab-content">
+                          <!-- 市政新聞 -->
                             <div role="tabpanel" class="tab-pane fade in active" id="tab-01">
                               <div class="c-content-accordion-1 c-theme">
                                 <div class="panel-group" id="accordion" role="tablist">
                                   <div class="panel">
-                                    <div class="panel-heading" role="tab" id="headingOne">
+                                    <div class="panel-heading" role="tab" id="tab-01-1-1">
                                       <h4 class="panel-title">
-                                        <a class="c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">「2015新竹黑客松─市府官網設計大賽」 林智堅巿長：提供嶄新官網服務<span style="float:right; font-size:14px; color:#333">2015/11/28</span></a>
+                                        <a class="c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion" href="#tab-01-1-2" aria-expanded="true" aria-controls="#tab-01-1-2"><span style="float:right; font-size:14px; color:#333;">2015/11/28</span>「2015新竹黑客松─市府官網設計大賽」 林智堅巿長：提供嶄新官網服務</a>
                                       </h4>
                                     </div>
-                                    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                                    <div id="tab-01-1-2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="tab-01-1-1">
                                       <div class="panel-body">
                                         <p class="c-font-14">新竹市政府為促進官網優質化，符合民眾需求，於今(28)、明兩日舉辦「2015新竹黑客松─市府官網設計大賽」活動，林智堅市長上午在市府一樓大廳鳴槍，宣布長達33小時活動開跑，活動總獎金高達新台幣17萬元，共吸引21組65位網路高手報名參加，參賽者個個身懷網路絕技，努力合作完成市府官網的「黑客松版本」，過程酷炫精采。</p>
                                         <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
@@ -404,12 +405,12 @@ Follow: http://www.twitter.com/themehats
                                     </div>
                                   </div>
                                   <div class="panel">
-                                    <div class="panel-heading" role="tab" id="headingTwo">
+                                    <div class="panel-heading" role="tab" id="tab-01-2-1">
                                         <h4 class="panel-title">
-                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">第9屆立法委員選舉 新竹市選舉區23-27日期間登記情形<span style="float:right; font-size:14px; color:#333">2015/11/27</span></a>
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion" href="#tab-01-2-2" aria-expanded="false" aria-controls="#tab-01-2-2"><span style="float:right; font-size:14px; color:#333; ">2015/11/27</span>第9屆立法委員選舉 新竹市選舉區23-27日期間登記情形</a>
                                         </h4>
                                     </div>
-                                    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                                    <div id="tab-01-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-01-2-1">
                                         <div class="panel-body c-font-14">
                                           <p class="c-font-14">新竹市選委會今(27)日表示，第9屆立法委員選舉新竹市選舉區，截至登記日(27日)結束計有10人完成登記手續，詳細名單如下： <br>親民黨歐崇敬、民主進步黨柯建銘（現任立法委員）、中國國民黨鄭正鈐（現任新竹市議員）、軍公教聯盟黨魏揚、時代力量邱顯智、自由台灣黨林家宇、無黨籍曾耀澂、黃源甫、王榮德、吳淑敏等10人。</p>
                                           <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
@@ -417,12 +418,12 @@ Follow: http://www.twitter.com/themehats
                                     </div>
                                   </div>
                                   <div class="panel">
-                                    <div class="panel-heading" role="tab" id="headingThree">
+                                    <div class="panel-heading" role="tab" id="tab-01-3-1">
                                         <h4 class="panel-title">
-                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseTwo">105年（第1次）役男申請服一般替代役自104年12月1日開始受理<span style="float:right; font-size:14px; color:#333">2015/11/27</span></a>
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion" href="#tab-01-3-2" aria-expanded="false" aria-controls="#tab-01-3-2"><span style="float:right; font-size:14px; color:#333">2015/11/27</span> 105年（第1次）役男申請服一般替代役自104年12月1日開始<br>受理</a>
                                         </h4>
                                     </div>
-                                    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                                    <div id="tab-01-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-01-3-1">
                                         <div class="panel-body c-font-14">
                                           <p class="c-font-14">新竹市政府民政處今(27)表示，內政部役政署公告民國105年（第1次）役男申請服一般替代役之對象條件及相關作業規定，申請時間自12月1日上午8時至12月14日下午5時止。</p>
                                           <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
@@ -430,139 +431,214 @@ Follow: http://www.twitter.com/themehats
                                     </div>
                                   </div>
                                   <div class="panel">
-                                    <div class="panel-heading" role="tab" id="headingFour">
+                                    <div class="panel-heading" role="tab" id="tab-01-4-1">
                                         <h4 class="panel-title">
-                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseTwo">處理違規停車 查獲違法槍毒<span style="float:right; font-size:14px; color:#333">2015/11/27</span></a>
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion" href="#tab-01-4-2" aria-expanded="false" aria-controls="#tab-01-4-2">處理違規停車 查獲違法槍毒<span style="float:right; font-size:14px; color:#333">2015/11/27</span></a>
                                         </h4>
                                     </div>
-                                    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+                                    <div id="tab-01-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-01-4-1">
                                         <div class="panel-body c-font-14">
-                                          <p class="c-font-14">在本（27）日凌晨5時許南門派出所所長黃明祥執服巡邏勤務，接獲報案前往本市東區食品路326巷22弄處理違停車輛，經通知該部違停車主前來移車時，眼尖的所長發現另部違停車主張姓男子前來移車時神色慌張以為事跡敗露，警方前往查捕、形跡可疑，遂趨前盤查，在徵得同意後，由其主動打開駕駛座車門供警方檢視，警方人員隨即在車內駕駛座車門扶手處目視到疑似毒品1包，經詢問張男坦承該包為愷他命（第三級毒品）。</p>
+                                          <p class="c-font-14">在本（27）日凌晨5時許南門派出所所長黃明祥執服巡邏勤務，接獲報案前往本市東區食品路326巷22弄處理違停車輛，經通知該部違停車主前來移車時，眼尖的所長發現另部違停車主張姓男子前來移車時神色慌張以為事跡敗露，警方前往查捕、形跡可疑，遂趨前盤查，在徵得同意後 ⋯⋯</p>
                                           <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
+                              <div style="position:absolute; right:30px; bottom:10px"><a href="#" style="float:left">More<span class="glyphicon glyphicon-chevron-right"></span></a></div>
                             </div>
 
+                          <!-- 科技園區 -->
                             <div role="tabpanel" class="tab-pane fade" id="tab-02">
                               <div class="c-content-accordion-1 c-theme">
-                                <div class="panel-group" id="accordion" role="tablist">
-                                    <div class="panel">
-                                        <div class="panel-heading" role="tab" id="headingOne">
-                                            <h4 class="panel-title">
-                                                <a class="c-font-bold c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">CUSTOMISIBLE CAMPAIGN AVAILABLE</a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                                            <div class="panel-body c-font-18"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </div>
+                                <div class="panel-group" id="accordion-2" role="tablist">
+                                  <div class="panel">
+                                    <div class="panel-heading" role="tab" id="tab-02-1-1">
+                                      <h4 class="panel-title">
+                                        <a class="c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-2" href="#tab-02-1-2" aria-expanded="true" aria-controls="#tab-02-1-2"><span style="float:right; font-size:14px; color:#333;">2015/11/28</span>「2015新竹黑客松─市府官網設計大賽」 林智堅巿長：提供嶄新官網服務</a>
+                                      </h4>
+                                    </div>
+                                    <div id="tab-02-1-2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="tab-02-1-1">
+                                      <div class="panel-body">
+                                        <p class="c-font-14">新竹市政府為促進官網優質化，符合民眾需求，於今(28)、明兩日舉辦「2015新竹黑客松─市府官網設計大賽」活動，林智堅市長上午在市府一樓大廳鳴槍，宣布長達33小時活動開跑，活動總獎金高達新台幣17萬元，共吸引21組65位網路高手報名參加，參賽者個個身懷網路絕技，努力合作完成市府官網的「黑客松版本」，過程酷炫精采。</p>
+                                        <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div class="panel">
+                                    <div class="panel-heading" role="tab" id="tab-02-2-1">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-2" href="#tab-02-2-2" aria-expanded="false" aria-controls="#tab-02-2-2"><span style="float:right; font-size:14px; color:#333; ">2015/11/27</span>第9屆立法委員選舉 新竹市選舉區23-27日期間登記情形</a>
+                                        </h4>
+                                    </div>
+                                    <div id="tab-02-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-02-2-1">
+                                        <div class="panel-body c-font-14">
+                                          <p class="c-font-14">新竹市選委會今(27)日表示，第9屆立法委員選舉新竹市選舉區，截至登記日(27日)結束計有10人完成登記手續，詳細名單如下： <br>親民黨歐崇敬、民主進步黨柯建銘（現任立法委員）、中國國民黨鄭正鈐（現任新竹市議員）、軍公教聯盟黨魏揚、時代力量邱顯智、自由台灣黨林家宇、無黨籍曾耀澂、黃源甫、王榮德、吳淑敏等10人。</p>
+                                          <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
-                                    <div class="panel">
-                                        <div class="panel-heading" role="tab" id="headingTwo">
-                                            <h4 class="panel-title">
-                                                <a class="collapsed c-font-bold c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">DEDICATED SUPPORT FOR YOUR STAFF</a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                                            <div class="panel-body c-font-18"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </div>
+                                  </div>
+                                  <div class="panel">
+                                    <div class="panel-heading" role="tab" id="tab-02-3-1">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-2" href="#tab-02-3-2" aria-expanded="false" aria-controls="#tab-02-3-2"><span style="float:right; font-size:14px; color:#333">2015/11/27</span> 105年（第1次）役男申請服一般替代役自104年12月1日開始<br>受理</a>
+                                        </h4>
+                                    </div>
+                                    <div id="tab-02-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-02-3-1">
+                                        <div class="panel-body c-font-14">
+                                          <p class="c-font-14">新竹市政府民政處今(27)表示，內政部役政署公告民國105年（第1次）役男申請服一般替代役之對象條件及相關作業規定，申請時間自12月1日上午8時至12月14日下午5時止。</p>
+                                          <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
-                                    <div class="panel">
-                                        <div class="panel-heading" role="tab" id="headingThree">
-                                            <h4 class="panel-title">
-                                                <a class="collapsed c-font-bold c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">AWESOME FEATURES FOR EVERYONE</a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                                            <div class="panel-body c-font-18"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </div>
+                                  </div>
+                                  <div class="panel">
+                                    <div class="panel-heading" role="tab" id="tab-02-4-1">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-2" href="#tab-02-4-2" aria-expanded="false" aria-controls="#tab-02-4-2">處理違規停車 查獲違法槍毒<span style="float:right; font-size:14px; color:#333">2015/11/27</span></a>
+                                        </h4>
+                                    </div>
+                                    <div id="tab-02-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-02-4-1">
+                                        <div class="panel-body c-font-14">
+                                          <p class="c-font-14">在本（27）日凌晨5時許南門派出所所長黃明祥執服巡邏勤務，接獲報案前往本市東區食品路326巷22弄處理違停車輛，經通知該部違停車主前來移車時，眼尖的所長發現另部違停車主張姓男子前來移車時神色慌張以為事跡敗露，警方前往查捕、形跡可疑，遂趨前盤查，在徵得同意後 ⋯⋯</p>
+                                          <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
+                                  </div>
                                 </div>
                               </div>
+                              <div style="position:absolute; right:30px; bottom:10px"><a href="#" style="float:left">More<span class="glyphicon glyphicon-chevron-right"></span></a></div>
                             </div>
+
+                          <!-- 一般公告 -->
                             <div role="tabpanel" class="tab-pane fade" id="tab-03">
                               <div class="c-content-accordion-1 c-theme">
-                                <div class="panel-group" id="accordion" role="tablist">
-                                    <div class="panel">
-                                        <div class="panel-heading" role="tab" id="headingOne">
-                                            <h4 class="panel-title">
-                                                <a class="c-font-bold c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">CUSTOMISIBLE CAMPAIGN AVAILABLE</a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                                            <div class="panel-body c-font-18"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </div>
+                                <div class="panel-group" id="accordion-3" role="tablist">
+                                  <div class="panel">
+                                    <div class="panel-heading" role="tab" id="tab-03-1-1">
+                                      <h4 class="panel-title">
+                                        <a class="c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-3" href="#tab-03-1-2" aria-expanded="true" aria-controls="#tab-03-1-2"><span style="float:right; font-size:14px; color:#333;">2015/11/28</span>「2015新竹黑客松─市府官網設計大賽」 林智堅巿長：提供嶄新官網服務</a>
+                                      </h4>
+                                    </div>
+                                    <div id="tab-03-1-2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="tab-03-1-1">
+                                      <div class="panel-body">
+                                        <p class="c-font-14">新竹市政府為促進官網優質化，符合民眾需求，於今(28)、明兩日舉辦「2015新竹黑客松─市府官網設計大賽」活動，林智堅市長上午在市府一樓大廳鳴槍，宣布長達33小時活動開跑，活動總獎金高達新台幣17萬元，共吸引21組65位網路高手報名參加，參賽者個個身懷網路絕技，努力合作完成市府官網的「黑客松版本」，過程酷炫精采。</p>
+                                        <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div class="panel">
+                                    <div class="panel-heading" role="tab" id="tab-03-2-1">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-3" href="#tab-03-2-2" aria-expanded="false" aria-controls="#tab-03-2-2"><span style="float:right; font-size:14px; color:#333; ">2015/11/27</span>第9屆立法委員選舉 新竹市選舉區23-27日期間登記情形</a>
+                                        </h4>
+                                    </div>
+                                    <div id="tab-03-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-03-2-1">
+                                        <div class="panel-body c-font-14">
+                                          <p class="c-font-14">新竹市選委會今(27)日表示，第9屆立法委員選舉新竹市選舉區，截至登記日(27日)結束計有10人完成登記手續，詳細名單如下： <br>親民黨歐崇敬、民主進步黨柯建銘（現任立法委員）、中國國民黨鄭正鈐（現任新竹市議員）、軍公教聯盟黨魏揚、時代力量邱顯智、自由台灣黨林家宇、無黨籍曾耀澂、黃源甫、王榮德、吳淑敏等10人。</p>
+                                          <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
-                                    <div class="panel">
-                                        <div class="panel-heading" role="tab" id="headingTwo">
-                                            <h4 class="panel-title">
-                                                <a class="collapsed c-font-bold c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">DEDICATED SUPPORT FOR YOUR STAFF</a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                                            <div class="panel-body c-font-18"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </div>
+                                  </div>
+                                  <div class="panel">
+                                    <div class="panel-heading" role="tab" id="tab-03-3-1">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-3" href="#tab-03-3-2" aria-expanded="false" aria-controls="#tab-03-3-2"><span style="float:right; font-size:14px; color:#333">2015/11/27</span> 105年（第1次）役男申請服一般替代役自104年12月1日開始<br>受理</a>
+                                        </h4>
+                                    </div>
+                                    <div id="tab-03-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-03-3-1">
+                                        <div class="panel-body c-font-14">
+                                          <p class="c-font-14">新竹市政府民政處今(27)表示，內政部役政署公告民國105年（第1次）役男申請服一般替代役之對象條件及相關作業規定，申請時間自12月1日上午8時至12月14日下午5時止。</p>
+                                          <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
-                                    <div class="panel">
-                                        <div class="panel-heading" role="tab" id="headingThree">
-                                            <h4 class="panel-title">
-                                                <a class="collapsed c-font-bold c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">AWESOME FEATURES FOR EVERYONE</a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                                            <div class="panel-body c-font-18"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </div>
+                                  </div>
+                                  <div class="panel">
+                                    <div class="panel-heading" role="tab" id="tab-03-4-1">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-3" href="#tab-03-4-2" aria-expanded="false" aria-controls="#tab-03-4-2">處理違規停車 查獲違法槍毒<span style="float:right; font-size:14px; color:#333">2015/11/27</span></a>
+                                        </h4>
+                                    </div>
+                                    <div id="tab-03-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-03-4-1">
+                                        <div class="panel-body c-font-14">
+                                          <p class="c-font-14">在本（27）日凌晨5時許南門派出所所長黃明祥執服巡邏勤務，接獲報案前往本市東區食品路326巷22弄處理違停車輛，經通知該部違停車主前來移車時，眼尖的所長發現另部違停車主張姓男子前來移車時神色慌張以為事跡敗露，警方前往查捕、形跡可疑，遂趨前盤查，在徵得同意後 ⋯⋯</p>
+                                          <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
+                                  </div>
                                 </div>
                               </div>
+                              <div style="position:absolute; right:30px; bottom:10px"><a href="#" style="float:left">More<span class="glyphicon glyphicon-chevron-right"></span></a></div>
                             </div>
+
+                          <!-- 招標公告 -->
                             <div role="tabpanel" class="tab-pane fade" id="tab-04">
                               <div class="c-content-accordion-1 c-theme">
-                                <div class="panel-group" id="accordion" role="tablist">
-                                    <div class="panel">
-                                        <div class="panel-heading" role="tab" id="headingOne">
-                                            <h4 class="panel-title">
-                                                <a class="c-font-bold c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">CUSTOMISIBLE CAMPAIGN AVAILABLE</a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                                            <div class="panel-body c-font-18"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </div>
+                                <div class="panel-group" id="accordion-4" role="tablist">
+                                  <div class="panel">
+                                    <div class="panel-heading" role="tab" id="tab-04-1-1">
+                                      <h4 class="panel-title">
+                                        <a class="c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-4" href="#tab-04-1-2" aria-expanded="true" aria-controls="#tab-04-1-2"><span style="float:right; font-size:14px; color:#333;">2015/11/28</span>「2015新竹黑客松─市府官網設計大賽」 林智堅巿長：提供嶄新官網服務</a>
+                                      </h4>
+                                    </div>
+                                    <div id="tab-04-1-2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="tab-04-1-1">
+                                      <div class="panel-body">
+                                        <p class="c-font-14">新竹市政府為促進官網優質化，符合民眾需求，於今(28)、明兩日舉辦「2015新竹黑客松─市府官網設計大賽」活動，林智堅市長上午在市府一樓大廳鳴槍，宣布長達33小時活動開跑，活動總獎金高達新台幣17萬元，共吸引21組65位網路高手報名參加，參賽者個個身懷網路絕技，努力合作完成市府官網的「黑客松版本」，過程酷炫精采。</p>
+                                        <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div class="panel">
+                                    <div class="panel-heading" role="tab" id="tab-04-2-1">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-4" href="#tab-04-2-2" aria-expanded="false" aria-controls="#tab-04-2-2"><span style="float:right; font-size:14px; color:#333; ">2015/11/27</span>第9屆立法委員選舉 新竹市選舉區23-27日期間登記情形</a>
+                                        </h4>
+                                    </div>
+                                    <div id="tab-04-2-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-04-2-1">
+                                        <div class="panel-body c-font-14">
+                                          <p class="c-font-14">新竹市選委會今(27)日表示，第9屆立法委員選舉新竹市選舉區，截至登記日(27日)結束計有10人完成登記手續，詳細名單如下： <br>親民黨歐崇敬、民主進步黨柯建銘（現任立法委員）、中國國民黨鄭正鈐（現任新竹市議員）、軍公教聯盟黨魏揚、時代力量邱顯智、自由台灣黨林家宇、無黨籍曾耀澂、黃源甫、王榮德、吳淑敏等10人。</p>
+                                          <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
-                                    <div class="panel">
-                                        <div class="panel-heading" role="tab" id="headingTwo">
-                                            <h4 class="panel-title">
-                                                <a class="collapsed c-font-bold c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">DEDICATED SUPPORT FOR YOUR STAFF</a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                                            <div class="panel-body c-font-18"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </div>
+                                  </div>
+                                  <div class="panel">
+                                    <div class="panel-heading" role="tab" id="tab-04-3-1">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-4" href="#tab-04-3-2" aria-expanded="false" aria-controls="#tab-04-3-2"><span style="float:right; font-size:14px; color:#333">2015/11/27</span> 105年（第1次）役男申請服一般替代役自104年12月1日開始<br>受理</a>
+                                        </h4>
+                                    </div>
+                                    <div id="tab-04-3-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-04-3-1">
+                                        <div class="panel-body c-font-14">
+                                          <p class="c-font-14">新竹市政府民政處今(27)表示，內政部役政署公告民國105年（第1次）役男申請服一般替代役之對象條件及相關作業規定，申請時間自12月1日上午8時至12月14日下午5時止。</p>
+                                          <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
-                                    <div class="panel">
-                                        <div class="panel-heading" role="tab" id="headingThree">
-                                            <h4 class="panel-title">
-                                                <a class="collapsed c-font-bold c-font-19" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">AWESOME FEATURES FOR EVERYONE</a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                                            <div class="panel-body c-font-18"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </div>
+                                  </div>
+                                  <div class="panel">
+                                    <div class="panel-heading" role="tab" id="tab-04-4-1">
+                                        <h4 class="panel-title">
+                                            <a class="collapsed c-font-bold c-font-16" data-toggle="collapse" data-parent="#accordion-4" href="#tab-04-4-2" aria-expanded="false" aria-controls="#tab-04-4-2">處理違規停車 查獲違法槍毒<span style="float:right; font-size:14px; color:#333">2015/11/27</span></a>
+                                        </h4>
+                                    </div>
+                                    <div id="tab-04-4-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="tab-04-4-1">
+                                        <div class="panel-body c-font-14">
+                                          <p class="c-font-14">在本（27）日凌晨5時許南門派出所所長黃明祥執服巡邏勤務，接獲報案前往本市東區食品路326巷22弄處理違停車輛，經通知該部違停車主前來移車時，眼尖的所長發現另部違停車主張姓男子前來移車時神色慌張以為事跡敗露，警方前往查捕、形跡可疑，遂趨前盤查，在徵得同意後 ⋯⋯</p>
+                                          <a href="#" style="color:#fff;"><span class="glyphicon glyphicon-new-window" style="float:right"></span></a>
                                         </div>
                                     </div>
+                                  </div>
                                 </div>
                               </div>
+                              <div style="position:absolute; right:30px; bottom:10px"><a href="#" style="float:left">More<span class="glyphicon glyphicon-chevron-right"></span></a></div>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <!-- 快速服務 -->
-                <div class="col-md-4 col-sm-8">
+                <div class="col-md-6 col-sm-8">
                   <div class="cbp-panel">
                     <!-- SEE: components.js:ContentCubeLatestPortfolio -->
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-md-4 col-sm-4">
                       <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
                         <div class="cbp-item web-design logos">
                           <div class="cbp-caption">
@@ -573,8 +649,8 @@ Follow: http://www.twitter.com/themehats
                               <div class="c-masonry-border"></div>
                               <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
-                                  <a href="ajax/projects/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                  <a href="assets/base/img/content/stock/07.jpg" class="cbp-lightbox cbp-l-caption-buttonRight btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase" data-title="World Clock Widget<br>by Paul Flavius Nechita">zoom</a>
+                                  <p style="color:#fff">愛心服務</p>
+                                  <a href="ajax/projects/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
                                 </div>
                               </div>
                             </div>
@@ -582,7 +658,7 @@ Follow: http://www.twitter.com/themehats
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-md-4 col-sm-4">
                       <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
                         <div class="cbp-item web-design logos">
                           <div class="cbp-caption">
@@ -594,7 +670,6 @@ Follow: http://www.twitter.com/themehats
                               <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
                                   <a href="ajax/projects/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                  <a href="assets/base/img/content/stock/07.jpg" class="cbp-lightbox cbp-l-caption-buttonRight btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase" data-title="World Clock Widget<br>by Paul Flavius Nechita">zoom</a>
                                 </div>
                               </div>
                             </div>
@@ -602,7 +677,7 @@ Follow: http://www.twitter.com/themehats
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-md-4 col-sm-4">
                       <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
                         <div class="cbp-item web-design logos">
                           <div class="cbp-caption">
@@ -613,8 +688,7 @@ Follow: http://www.twitter.com/themehats
                               <div class="c-masonry-border"></div>
                               <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
-                                  <a href="ajax/projects/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                  <a href="assets/base/img/content/stock/07.jpg" class="cbp-lightbox cbp-l-caption-buttonRight btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase" data-title="World Clock Widget<br>by Paul Flavius Nechita">zoom</a>
+                                  <a href="ajax/projects/project3.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
                                 </div>
                               </div>
                             </div>
@@ -622,7 +696,7 @@ Follow: http://www.twitter.com/themehats
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-md-4 col-sm-4">
                       <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
                         <div class="cbp-item web-design logos">
                           <div class="cbp-caption">
@@ -633,8 +707,7 @@ Follow: http://www.twitter.com/themehats
                               <div class="c-masonry-border"></div>
                               <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
-                                  <a href="ajax/projects/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                  <a href="assets/base/img/content/stock/07.jpg" class="cbp-lightbox cbp-l-caption-buttonRight btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase" data-title="World Clock Widget<br>by Paul Flavius Nechita">zoom</a>
+                                  <a href="ajax/projects/project4.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
                                 </div>
                               </div>
                             </div>
@@ -642,7 +715,7 @@ Follow: http://www.twitter.com/themehats
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-md-4 col-sm-4">
                       <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
                         <div class="cbp-item web-design logos">
                           <div class="cbp-caption">
@@ -653,8 +726,7 @@ Follow: http://www.twitter.com/themehats
                               <div class="c-masonry-border"></div>
                               <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
-                                  <a href="ajax/projects/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                  <a href="assets/base/img/content/stock/07.jpg" class="cbp-lightbox cbp-l-caption-buttonRight btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase" data-title="World Clock Widget<br>by Paul Flavius Nechita">zoom</a>
+                                  <a href="ajax/projects/project5.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
                                 </div>
                               </div>
                             </div>
@@ -662,7 +734,7 @@ Follow: http://www.twitter.com/themehats
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-md-4 col-sm-4">
                       <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
                         <div class="cbp-item web-design logos">
                           <div class="cbp-caption">
@@ -673,8 +745,64 @@ Follow: http://www.twitter.com/themehats
                               <div class="c-masonry-border"></div>
                               <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
-                                  <a href="ajax/projects/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                  <a href="assets/base/img/content/stock/07.jpg" class="cbp-lightbox cbp-l-caption-buttonRight btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase" data-title="World Clock Widget<br>by Paul Flavius Nechita">zoom</a>
+                                  <a href="ajax/projects/project6.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                        <div class="cbp-item web-design logos">
+                          <div class="cbp-caption">
+                            <div class="cbp-caption-defaultWrap">
+                              <img src="assets/base/img/content/stock/07.jpg" alt="">
+                            </div>
+                            <div class="cbp-caption-activeWrap">
+                              <div class="c-masonry-border"></div>
+                              <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                  <a href="ajax/projects/project7.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                        <div class="cbp-item web-design logos">
+                          <div class="cbp-caption">
+                            <div class="cbp-caption-defaultWrap">
+                              <img src="assets/base/img/content/stock/07.jpg" alt="">
+                            </div>
+                            <div class="cbp-caption-activeWrap">
+                              <div class="c-masonry-border"></div>
+                              <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                  <a href="ajax/projects/project8.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                        <div class="cbp-item web-design logos">
+                          <div class="cbp-caption">
+                            <div class="cbp-caption-defaultWrap">
+                              <img src="assets/base/img/content/stock/07.jpg" alt="">
+                            </div>
+                            <div class="cbp-caption-activeWrap">
+                              <div class="c-masonry-border"></div>
+                              <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                  <a href="ajax/projects/project9.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
                                 </div>
                               </div>
                             </div>
@@ -692,79 +820,8 @@ Follow: http://www.twitter.com/themehats
 
         
     <!-- BEGIN: LAYOUT/FOOTERS/FOOTER-8 -->
-    <a name="footer"></a>
-    <footer class="c-layout-footer c-layout-footer-4 c-bg-footer-8">
-        <div class="c-footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 c-footer-4-p-right">
-                        <div class="c-content-title-1">
-                            <h3 class="c-font-uppercase c-font-bold c-font-white c-border">JAN
-                                <span class="c-theme-font">GO</span>
-                            </h3>
-                        </div>
-                        <p class="c-about"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed elit diam nonummy ad minim veniam quis nostrud exerci et tation diam nisl ut aliquip exit commodo consequat euismod tincidunt ut laoreet dolore magna aluam. </p>
-                        <div class="c-links">
-                            <ul class="c-nav">
-                                <li>
-                                    <a class="c-active c-theme-border c-theme-font" href="#">Home</a>
-                                </li>
-                                <li>
-                                    <a href="#">About</a>
-                                </li>
-                                <li>
-                                    <a href="#">Work</a>
-                                </li>
-                                <li>
-                                    <a href="#">Careers</a>
-                                </li>
-                                <li>
-                                    <a href="#">Contact</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <p class="c-contact"> 25, Lorem Lis Street, Orange C, California, US
-                            <br> Phone: 800 123 3456
-                            <br> Fax: 800 123 3456
-                            <br> Skype: jango.inc </p>
-                        <ul class="c-socials">
-                            <li>
-                                <a href="#">
-                                    <i class="icon-social-twitter"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="icon-social-facebook"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="icon-social-youtube"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="icon-social-dribbble"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-6 c-footer-4-p-left">
-                        <div class="c-feedback">
-                            <h3 class="c-font-thin">Contact Us</h3>
-                            <form action="#">
-                                <input type="text" placeholder="Your Name" class="form-control">
-                                <input type="text" placeholder="Your Email" class="form-control">
-                                <textarea rows="8" name="message" placeholder="Write comment here ..." class="form-control"></textarea>
-                                <button type="submit" class="btn c-btn-white c-btn-border-2x c-btn-uppercase btn-lg c-btn-bold c-btn-square">Send</button>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+
+    <?php include("footer.php") ?>
     <!-- END: LAYOUT/FOOTERS/FOOTER-8 -->
     <!-- BEGIN: LAYOUT/FOOTERS/GO2TOP -->
     <div class="c-layout-go2top">

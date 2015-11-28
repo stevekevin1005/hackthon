@@ -9758,7 +9758,7 @@ h1 {
 
 .c-content-tab-4.c-opt-3 > .tab-content {
   background-color: #f6f9fb;
-  height: 415px; }
+  height: 500px; }
 
   .c-content-tab-4.c-opt-3 > .tab-content .c-tab-items > li h4 {
     color: #5f6f77; }
@@ -10151,7 +10151,7 @@ h1 {
             transition: all 0.2s; }
   .c-content-accordion-1 .panel > .panel-collapse > .panel-body {
     border-top: none;
-    padding: 0px 30px 20px 30px;
+    padding: 10px 20px 20px 20px;
     color: #ffffff; }
 
 .c-content-accordion-1.c-accordion-white .panel > .panel-heading > .panel-title > a {

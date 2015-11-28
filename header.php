@@ -76,7 +76,7 @@
                         </a>
                     </li>                                
                     <li class="c-menu-type-classic">
-                        <a href="javascript:;" class="c-link dropdown-toggle">首頁
+                        <a href="index.php" class="c-link dropdown-toggle">首頁
                             <span class="c-arrow c-toggler"></span>
                         </a>
                     </li>
