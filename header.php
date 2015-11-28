@@ -113,7 +113,7 @@
                         </a>
                         <ul class="dropdown-menu c-menu-type-classic c-pull-left">
                             <li class="dropdown-submenu">
-                                <a href="javascript:;">市長</a>
+                                <a href="introduceDepartment.php">市長</a>
                             </li>
                             <li class="dropdown-submenu">
                                 <a href="#">財政處</a>
