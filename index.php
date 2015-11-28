@@ -14,7 +14,7 @@ Follow: http://www.twitter.com/themehats
   <?php 
     include("header.php");
   ?>
-  <body>
+  <body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-fullscreen">
     <!-- BEGIN: PAGE CONTAINER -->
     <div class="c-layout-page">
         <!-- BEGIN: PAGE CONTENT -->
