@@ -101,227 +101,275 @@ Follow: http://www.twitter.com/themehats
         </section>
         <!-- END: LAYOUT/SLIDERS/REVO-SLIDER-2 -->
 
-        <!-- 活動輪播 -->
-        <!-- BEGIN: CONTENT/SLIDERS/TEAM-2 -->
-        <div class="c-content-box c-size-md c-bg-grey-1">
-            <div class="container">
-                <!-- Begin: Testimonals 1 component -->
-                <div class="c-content-person-1-slider" data-slider="owl" data-items="3" data-auto-play="8000">
-                    <!-- Begin: Title 1 component -->
-                    <div class="c-content-title-1">
-                        <h3 class="c-center c-font-uppercase c-font-bold">Meet The Team</h3>
-                        <div class="c-line-center c-theme-bg"></div>
-                    </div>
-                    <!-- End-->
-                    <!-- Begin: Owlcarousel -->
-                    <div class="owl-carousel owl-theme c-theme">
-                        <div class="item">
-                            <div class="c-content-person-1 c-option-2">
-                                <div class="c-caption c-content-overlay">
-                                    <div class="c-overlay-wrapper">
-                                        <div class="c-overlay-content">
-                                            <a href="#">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                            <a href="assets/base/img/content/team/team10.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
+            <!-- 活動輪播 -->
+            <!-- BEGIN: CONTENT/SLIDERS/TEAM-2 -->
+            <div class="c-content-box c-size-md c-bg-grey-1">
+                <div class="container">
+                    <!-- Begin: Testimonals 1 component -->
+                    <div class="c-content-person-1-slider" data-slider="owl" data-items="3" data-auto-play="8000">
+                        <!-- Begin: Title 1 component -->
+                        <div class="c-content-title-1">
+                            <h3 class="c-center c-font-uppercase c-font-bold">Meet The Team  </h3>
+                            <div class="c-line-center c-theme-bg"></div>
+                        </div>
+                        <!-- End-->
+                        <!-- Begin: Owlcarousel -->
+                        <div class="owl-carousel owl-theme c-theme">
+                            <div class="item">
+                                <div class="c-content-person-1 c-option-2">
+                                    <div class="c-caption c-content-overlay">
+                                        <div class="c-overlay-wrapper">
+                                            <div class="c-overlay-content">
+                                                <a href="#">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                                <a href="assets/base/img/content/team/team10.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </div>
                                         </div>
+                                        <img src="assets/base/img/content/news/picture/people.jpg" class="img-responsive c-overlay-object" alt=""> </div>
+                                    <div class="c-body">
+                                        <div class="c-head">
+                                            <div class="c-name c-font-uppercase c-font-bold">關東國小南棟校舍動土典禮(這是新聞標題)</div>
+                                            <ul class="c-socials c-theme-ul">
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-twitter"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-facebook"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-dribbble"></i>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="c-position"> 林智堅市長：打造優質教學環境 讓孩子快樂學習(新聞副標題)</div>
+                                        <p> 新竹市關東國小南棟校舍興建工程今(27)日舉行動土典禮，
+										林智堅市長親臨與會並表示，
+										關埔地區近年來人口成長快速，
+										有越來越龐大的就學需求，
+										關東國小南棟校舍的興建，
+										不只舒緩教室不足現象，
+										也滿足當地學子入學需求，
+										未來市府會持續在教育工作上做更多努力，
+										提供最優質的教育品質及環境，
+										讓新竹市每一位孩子都能快樂學習。 
+										關東國小上午舉行南棟校舍興建工程動土典禮，全校師生開心迎接歷史的一刻....(詳全文)(未做超連結)
+										(新聞內容) </p>
                                     </div>
-                                    <img src="assets/base/img/content/team/team10.jpg" class="img-responsive c-overlay-object" alt=""> </div>
-                                <div class="c-body">
-                                    <div class="c-head">
-                                        <div class="c-name c-font-uppercase c-font-bold">Randy JANGO</div>
-                                        <ul class="c-socials c-theme-ul">
-                                            <li>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="c-content-person-1 c-option-2">
+                                    <div class="c-caption c-content-overlay">
+                                        <div class="c-overlay-wrapper">
+                                            <div class="c-overlay-content">
                                                 <a href="#">
-                                                    <i class="icon-social-twitter"></i>
+                                                    <i class="icon-link"></i>
                                                 </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-facebook"></i>
+                                                <a href="assets/base/img/content/team/team9.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
+                                                    <i class="icon-magnifier"></i>
                                                 </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-dribbble"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
+                                            </div>
+                                        </div>
+                                        <img src="assets/base/img/content/news/picture/hackthon.jpg" class="img-responsive c-overlay-object" alt=""> </div>
+                                    <div class="c-body">
+                                        <div class="c-head">
+                                            <div class="c-name c-font-uppercase c-font-bold">「2015新竹黑客松─市府官網設計大賽」</div>
+                                            <ul class="c-socials c-theme-ul">
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-twitter"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-facebook"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-dribbble"></i>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="c-position">  林智堅巿長：提供嶄新官網服務 </div>
+                                        <p> 新竹市政府為促進官網優質化，
+										符合民眾需求，
+										於今(28)、明兩日舉辦「2015新竹黑客松─市府官網設計大賽」活動，
+										林智堅市長上午在市府一樓大廳鳴槍，
+										宣布長達33小時活動開跑，
+										活動總獎金高達新台幣17萬元，
+										共吸引21組65位網路高手報名參加，
+										參賽者個個身懷網路絕技，
+										努力合作完成市府官網的「黑客松版本」，過程酷炫精采......(詳全文) </p>
                                     </div>
-                                    <div class="c-position"> CEO, JANGO Inc. </div>
-                                    <p> Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur. </p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="c-content-person-1 c-option-2">
+                                    <div class="c-caption c-content-overlay">
+                                        <div class="c-overlay-wrapper">
+                                            <div class="c-overlay-content">
+                                                <a href="#">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                                <a href="assets/base/img/content/team/team7.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <img src="assets/base/img/content/news/picture/wi-fi.jpg" class="img-responsive c-overlay-object" alt=""> </div>
+                                    <div class="c-body">
+                                        <div class="c-head">
+                                            <div class="c-name c-font-uppercase c-font-bold">國道客運業者建置4G wifi </div>
+                                            <ul class="c-socials c-theme-ul">
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-twitter"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-facebook"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-dribbble"></i>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="c-position"> 林智堅市長：打造智慧運輸環境讓生活更便 </div>
+                                        <p>新竹市政府繼全國首創搭公車享免費4G快速飆網服務後，
+										再擴大飆網的服務範圍！國道客運業者「新竹客運」及「豪泰客運」響應新竹市建構智慧城市，
+										率先在「台北-新竹」路線裝設4G wifi及usb插槽，
+										提供旅客無線上網及充電服務，
+										新竹市長林智堅表示，
+										這是市民及通勤族的一大福音，
+										未來希望更多國道客運業者響應，
+										提升民眾搭乘大眾運輸的意願......(詳全文)  </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="c-content-person-1 c-option-2">
+                                    <div class="c-caption c-content-overlay">
+                                        <div class="c-overlay-wrapper">
+                                            <div class="c-overlay-content">
+                                                <a href="#">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                                <a href="assets/base/img/content/team/team11.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <img src="assets/base/img/content/news/picture/gun.jpg" class="img-responsive c-overlay-object" alt=""> </div>
+                                    <div class="c-body">
+                                        <div class="c-head">
+                                            <div class="c-name c-font-uppercase c-font-bold">淨化選前治安</div>
+                                            <ul class="c-socials c-theme-ul">
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-twitter"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-facebook"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-dribbble"></i>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="c-position"> 查獲非法槍彈及偽變造車牌 </div>
+                                        <p> 有鑑於「第14任總統副總統及第9屆立法委員選舉」將於明年1月16日舉行投開票，
+										為防止黑道幫派以暴力手段介入選舉活動，
+										並期達到淨化選前治安，
+										新竹市警察局第一分局執行查緝非法槍彈行動，
+										於昨(26)日15時許，
+										在新竹市五福路二段附近查獲槍砲案通緝許○豪到案，
+										並起獲改造手槍(含彈匣)1枝、改造子彈6顆、毒品海洛因5.98公克、安非他命7公克及偽變造車輛號牌14面等物品......(詳全文) </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="c-content-person-1 c-option-2">
+                                    <div class="c-caption c-content-overlay">
+                                        <div class="c-overlay-wrapper">
+                                            <div class="c-overlay-content">
+                                                <a href="#">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                                <a href="assets/base/img/content/team/team12.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <img src="assets/base/img/content/news/picture/food.jpg" class="img-responsive c-overlay-object" alt=""> </div>
+                                    <div class="c-body">
+                                        <div class="c-head">
+                                            <div class="c-name c-font-uppercase c-font-bold">新竹市衛生局查核違規及下架蘿蔔糕、蛋餅皮、蔥油餅等加工食品 </div>
+                                            <ul class="c-socials c-theme-ul">
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-twitter"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-facebook"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="icon-social-dribbble"></i>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="c-position"> 請民眾安心 </div>
+                                        <p> 新竹市衛生局今(27)日表示，
+										昨下午接獲新竹縣政府衛生局通報，
+										位於湖口鄉廢棄加油站設置之「稻香食品行」，
+										製作現場環境衛生差，
+										加工機具藏汙納垢，
+										因違反食安法情節重大，
+										當場命令停止製造及加工，
+										並將庫存產品封存，
+										責令業者不得包裝、運送、販賣及輸出，
+										主要銷售對象為桃園、新竹縣市早餐業，
+										新竹市衛生局派員至轄內15家下游早餐業者查核，
+										下架違規食品「蘿蔔 糕」共計 10片，
+										業者已自行銷毀；
+										下架違規食品「蛋餅皮」共計343片，
+										其中200片業者已現場銷毀；
+										衛生局將持續稽查監督業者退貨情形，
+										以維護民眾食品衛生安全......(詳全文) </p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="c-content-person-1 c-option-2">
-                                <div class="c-caption c-content-overlay">
-                                    <div class="c-overlay-wrapper">
-                                        <div class="c-overlay-content">
-                                            <a href="#">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                            <a href="assets/base/img/content/team/team9.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <img src="assets/base/img/content/team/team9.jpg" class="img-responsive c-overlay-object" alt=""> </div>
-                                <div class="c-body">
-                                    <div class="c-head">
-                                        <div class="c-name c-font-uppercase c-font-bold">Mary Jane</div>
-                                        <ul class="c-socials c-theme-ul">
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-facebook"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-dribbble"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="c-position"> CFO, JANGO Inc. </div>
-                                    <p> Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur. </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="c-content-person-1 c-option-2">
-                                <div class="c-caption c-content-overlay">
-                                    <div class="c-overlay-wrapper">
-                                        <div class="c-overlay-content">
-                                            <a href="#">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                            <a href="assets/base/img/content/team/team7.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <img src="assets/base/img/content/team/team7.jpg" class="img-responsive c-overlay-object" alt=""> </div>
-                                <div class="c-body">
-                                    <div class="c-head">
-                                        <div class="c-name c-font-uppercase c-font-bold">Beard Mcbeardson</div>
-                                        <ul class="c-socials c-theme-ul">
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-facebook"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-dribbble"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="c-position"> CTO, JANGO Inc. </div>
-                                    <p> Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur. </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="c-content-person-1 c-option-2">
-                                <div class="c-caption c-content-overlay">
-                                    <div class="c-overlay-wrapper">
-                                        <div class="c-overlay-content">
-                                            <a href="#">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                            <a href="assets/base/img/content/team/team11.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <img src="assets/base/img/content/team/team11.jpg" class="img-responsive c-overlay-object" alt=""> </div>
-                                <div class="c-body">
-                                    <div class="c-head">
-                                        <div class="c-name c-font-uppercase c-font-bold">Sara Conner</div>
-                                        <ul class="c-socials c-theme-ul">
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-facebook"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-dribbble"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="c-position"> Director, JANGO Inc. </div>
-                                    <p> Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur. </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="c-content-person-1 c-option-2">
-                                <div class="c-caption c-content-overlay">
-                                    <div class="c-overlay-wrapper">
-                                        <div class="c-overlay-content">
-                                            <a href="#">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                            <a href="assets/base/img/content/team/team12.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <img src="assets/base/img/content/team/team12.jpg" class="img-responsive c-overlay-object" alt=""> </div>
-                                <div class="c-body">
-                                    <div class="c-head">
-                                        <div class="c-name c-font-uppercase c-font-bold">Jim Book</div>
-                                        <ul class="c-socials c-theme-ul">
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-facebook"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <i class="icon-social-dribbble"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="c-position"> Director, JANGO Inc. </div>
-                                    <p> Lorem ipsum dolor sit amet, dolor nemo amet elit. Nulla nemo consequuntur. </p>
-                                </div>
-                            </div>
-                        </div>
+                        <!-- End-->
                     </div>
                     <!-- End-->
                 </div>
-                <!-- End-->
             </div>
-        </div>
-        <!-- END: CONTENT/SLIDERS/TEAM-2 -->
+            <!-- END: CONTENT/SLIDERS/TEAM-2 -->
 
         <!-- 相關資訊 -->
         <!-- BEGIN: CONTENT/TABS/TAB-3 -->
