@@ -116,10 +116,9 @@ Follow: http://www.twitter.com/themehats
                             <div class="c-line-center c-theme-bg"></div>
                         </div>
                         <!-- End-->
-                        <!-- Begin: Owlcarousel -->
+        <!-- Begin: Owlcarousel -->
                         <div class="owl-carousel owl-theme c-theme">
-<<<<<<< HEAD
-
+​
                           <!-- New01 -->
                           <div class="item">
                             <div class="c-content-person-1 c-option-2">
@@ -129,59 +128,10 @@ Follow: http://www.twitter.com/themehats
                                     <a href="#"><i class="icon-link"></i></a>
                                     <a href="assets/base/img/content/team/team10.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2"><i class="icon-magnifier"></i></a>
                                   </div>
-=======
-                            <div class="item">
-                                <div class="c-content-person-1 c-option-2">
-                                    <div class="c-caption c-content-overlay">
-                                        <div class="c-overlay-wrapper">
-                                            <div class="c-overlay-content">
-                                                <a href="#">
-                                                    <i class="icon-link"></i>
-                                                </a>
-                                                <a href="assets/base/img/content/team/team10.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
-                                                    <i class="icon-magnifier"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <img src="assets/base/img/content/news/picture/people.jpg" class="img-responsive c-overlay-object" alt=""> </div>
-                                    <div class="c-body">
-                                        <div class="c-head">
-                                            <div class="c-name c-font-uppercase c-font-bold">關東國小南棟校舍動土典禮(這是新聞標題)</div>
-                                            <ul class="c-socials c-theme-ul">
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="icon-social-twitter"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="icon-social-facebook"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="icon-social-dribbble"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="c-position"> 林智堅市長：打造優質教學環境 讓孩子快樂學習(新聞副標題)</div>
-                                        <p> 新竹市關東國小南棟校舍興建工程今(27)日舉行動土典禮，
-										林智堅市長親臨與會並表示，
-										關埔地區近年來人口成長快速，
-										有越來越龐大的就學需求，
-										關東國小南棟校舍的興建，
-										不只舒緩教室不足現象，
-										也滿足當地學子入學需求，
-										未來市府會持續在教育工作上做更多努力，
-										提供最優質的教育品質及環境，
-										讓新竹市每一位孩子都能快樂學習....(詳全文)</p>
-                                    </div>
->>>>>>> 78695c7d2de809d62177f0ca4e90354be3c2930b
                                 </div>
                                 <img src="assets/base/img/content/news/picture/people.jpg" class="img-responsive c-overlay-object" alt=""> </div>
                                 <div class="c-body">
-
+​
                                   <div class="c-head">
                                     <ul class="c-socials c-theme-ul">
                                       <li><a href="#"><i class="icon-heart"></i></a></li>
@@ -190,17 +140,16 @@ Follow: http://www.twitter.com/themehats
                                     </ul>
                                     <div class="c-name c-font-uppercase c-font-bold">關東國小南棟校舍動土典禮</div>
                                   </div>
-
+​
                                   <div class="c-position">林智堅市長：打造優質教學環境 讓孩子快樂學習</div>
                                   <p> 新竹市關東國小南棟校舍興建工程今(27)日舉行動土典禮，林智堅市長親臨與會並表示，關埔地區近年來人口成長快速，有越來越龐大的就學需求，關東國小南棟校舍的興建，不只舒緩教室不足現象，也滿足當地學子入學需求，未來市府會持續在教育工作上做更多努力，提供最優質的教育品質及環境....</p>
                                   <a href="#">詳全文</a>
                                 </div>
                               </div>
                             </div>
-
+​
                             <!-- News02 -->
                             <div class="item">
-<<<<<<< HEAD
                             <div class="c-content-person-1 c-option-2">
                               <div class="c-caption c-content-overlay">
                                 <div class="c-overlay-wrapper">
@@ -211,7 +160,7 @@ Follow: http://www.twitter.com/themehats
                                 </div>
                                 <img src="assets/base/img/content/news/picture/hackthon.jpg" class="img-responsive c-overlay-object" alt=""> </div>
                                 <div class="c-body">
-
+​
                                   <div class="c-head">
                                     <ul class="c-socials c-theme-ul">
                                       <li><a href="#"><i class="icon-heart"></i></a></li>
@@ -220,61 +169,14 @@ Follow: http://www.twitter.com/themehats
                                     </ul>
                                     <div class="c-name c-font-uppercase c-font-bold">「2015新竹黑客松─市府官網設計大賽」</div>
                                   </div>
-
+​
                                   <div class="c-position">林智堅巿長：提供嶄新官網服務</div>
                                   <p> 新竹市政府為促進官網優質化，符合民眾需求，於今(28)、明兩日舉辦「2015新竹黑客松─市府官網設計大賽」活動，林智堅市長上午在市府一樓大廳鳴槍，宣布長達33小時活動開跑，活動總獎金高達新台幣17萬元，共吸引21組65位網路高手報名參加，參賽者個個身懷網路絕技，努力合作完成市府官網......</p>
                                   <a href="#">詳全文</a>
-=======
-                                <div class="c-content-person-1 c-option-2">
-                                    <div class="c-caption c-content-overlay">
-                                        <div class="c-overlay-wrapper">
-                                            <div class="c-overlay-content">
-                                                <a href="#">
-                                                    <i class="icon-link"></i>
-                                                </a>
-                                                <a href="assets/base/img/content/team/team9.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
-                                                    <i class="icon-magnifier"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <img src="assets/base/img/content/news/picture/hackthon.jpg" class="img-responsive c-overlay-object" alt=""> </div>
-                                    <div class="c-body">
-                                        <div class="c-head">
-                                            <div class="c-name c-font-uppercase c-font-bold">「2015新竹黑客松─市府官網設計大賽」</div>
-                                            <ul class="c-socials c-theme-ul">
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="icon-social-twitter"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="icon-social-facebook"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="icon-social-dribbble"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="c-position">  林智堅巿長：提供嶄新官網服務 </div>
-                                        <p> 新竹市政府為促進官網優質化，
-										符合民眾需求，
-										於今(28)、明兩日舉辦「2015新竹黑客松─市府官網設計大賽」活動，
-										林智堅市長上午在市府一樓大廳鳴槍，
-										宣布長達33小時活動開跑，
-										活動總獎金高達新台幣17萬元，
-										共吸引21組65位網路高手報名參加，
-										參賽者個個身懷網路絕技，
-										努力合作完成市府官網的「黑客松版本」，過程酷炫精采......(詳全文)<p></p>
-                                    </div>
->>>>>>> 78695c7d2de809d62177f0ca4e90354be3c2930b
                                 </div>
                               </div>
                             </div>
-
+​
                             <!-- News03 -->
                             <div class="item">
                             <div class="c-content-person-1 c-option-2">
@@ -287,7 +189,7 @@ Follow: http://www.twitter.com/themehats
                                 </div>
                                 <img src="assets/base/img/content/news/picture/wi-fi.jpg" class="img-responsive c-overlay-object" alt=""> </div>
                                 <div class="c-body">
-
+​
                                   <div class="c-head">
                                     <ul class="c-socials c-theme-ul">
                                       <li><a href="#"><i class="icon-heart"></i></a></li>
@@ -296,17 +198,16 @@ Follow: http://www.twitter.com/themehats
                                     </ul>
                                     <div class="c-name c-font-uppercase c-font-bold">國道客運業者建置 4G Wi-Fi</div>
                                   </div>
-
+​
                                   <div class="c-position">林智堅市長：打造智慧運輸環境讓生活更便</div>
                                   <p> 新竹市政府繼全國首創搭公車享免費4G快速飆網服務後，再擴大飆網的服務範圍！國道客運業者「新竹客運」及「豪泰客運」響應新竹市建構智慧城市，率先在「台北-新竹」路線裝設4G wifi及usb插槽，提供旅客無線上網及充電服務，新竹市長林智堅表示，這是市民及通勤族的一大福音，未來希望更多國道客運業者響應，提升民眾搭乘大眾運輸的意願......</p>
                                   <a href="#">詳全文</a>
                                 </div>
                               </div>
                             </div>
-
+​
                             <!-- News04 -->
                             <div class="item">
-<<<<<<< HEAD
                             <div class="c-content-person-1 c-option-2">
                               <div class="c-caption c-content-overlay">
                                 <div class="c-overlay-wrapper">
@@ -317,7 +218,7 @@ Follow: http://www.twitter.com/themehats
                                 </div>
                                 <img src="assets/base/img/content/news/picture/gun.jpg" class="img-responsive c-overlay-object" alt="" style="height:226.578px"> </div>
                                 <div class="c-body">
-
+​
                                   <div class="c-head">
                                     <ul class="c-socials c-theme-ul">
                                       <li><a href="#"><i class="icon-heart"></i></a></li>
@@ -326,66 +227,16 @@ Follow: http://www.twitter.com/themehats
                                     </ul>
                                     <div class="c-name c-font-uppercase c-font-bold"><br>淨化選前治安</div>
                                   </div>
-
+​
                                   <div class="c-position">查獲非法槍彈及偽變造車牌</div>
                                   <p> 有鑑於「第14任總統副總統及第9屆立法委員選舉」將於明年1月16日舉行投開票，為防止黑道幫派以暴力手段介入選舉活動，並期達到淨化選前治安，新竹市警察局第一分局執行查緝非法槍彈行動，於昨(26)日15時許，在新竹市五福路二段附近查獲槍砲案通緝許○豪到案，並起獲改造手槍(含彈匣)1枝、改造子彈6顆、毒品海洛因5.98公克、安非他命7公克......</p>
                                   <a href="#">詳全文</a>
-=======
-                                <div class="c-content-person-1 c-option-2">
-                                    <div class="c-caption c-content-overlay">
-                                        <div class="c-overlay-wrapper">
-                                            <div class="c-overlay-content">
-                                                <a href="#">
-                                                    <i class="icon-link"></i>
-                                                </a>
-                                                <a href="assets/base/img/content/team/team11.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
-                                                    <i class="icon-magnifier"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <img src="assets/base/img/content/news/picture/gun.jpg" class="img-responsive c-overlay-object" alt=""> </div>
-                                    <div class="c-body">
-                                        <div class="c-head">
-                                            <div class="c-name c-font-uppercase c-font-bold">淨化選前治安</div></br>
-                                            <ul class="c-socials c-theme-ul">
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="icon-social-twitter"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="icon-social-facebook"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="icon-social-dribbble"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="c-position"> 查獲非法槍彈及偽變造車牌 </div>
-                                        <p> 有鑑於「第14任總統副總統及第9屆立法委員選舉」將於明年1月16日舉行投開票，
-										為防止黑道幫派以暴力手段介入選舉活動，
-										並期達到淨化選前治安，
-										新竹市警察局第一分局執行查緝非法槍彈行動，
-										於昨(26)日15時許，
-										在新竹市五福路二段附近查獲槍砲案通緝許○豪到案，
-										並起獲改造手槍(含彈匣)1枝、
-										改造子彈6顆、
-										毒品海洛因5.98公克、
-										安非他命7公克
-										及偽變造車輛號牌14面等物品。......(詳全文)<p></p>
-                                    </div>
->>>>>>> 78695c7d2de809d62177f0ca4e90354be3c2930b
                                 </div>
                               </div>
                             </div>
-
+​
                             <!-- News05 -->
                             <div class="item">
-<<<<<<< HEAD
                             <div class="c-content-person-1 c-option-2">
                               <div class="c-caption c-content-overlay">
                                 <div class="c-overlay-wrapper">
@@ -393,58 +244,10 @@ Follow: http://www.twitter.com/themehats
                                     <a href="#"><i class="icon-link"></i></a>
                                     <a href="assets/base/img/content/team/team9.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2"><i class="icon-magnifier"></i></a>
                                   </div>
-=======
-                                <div class="c-content-person-1 c-option-2">
-                                    <div class="c-caption c-content-overlay">
-                                        <div class="c-overlay-wrapper">
-                                            <div class="c-overlay-content">
-                                                <a href="#">
-                                                    <i class="icon-link"></i>
-                                                </a>
-                                                <a href="assets/base/img/content/team/team12.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2">
-                                                    <i class="icon-magnifier"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <img src="assets/base/img/content/news/picture/food.jpg" class="img-responsive c-overlay-object" alt=""> </div>
-                                    <div class="c-body">
-                                        <div class="c-head">
-                                            <div class="c-name c-font-uppercase c-font-bold">新竹市衛生局查核違規及下架蘿蔔糕、蛋餅皮、蔥油餅等加工食品 </div>
-                                            <ul class="c-socials c-theme-ul">
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="icon-social-twitter"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="icon-social-facebook"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="icon-social-dribbble"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="c-position"> 請民眾安心 </div>
-                                        <p> 新竹市衛生局今(27)日表示，
-										昨下午接獲新竹縣政府衛生局通報，
-										位於湖口鄉廢棄加油站設置之「稻香食品行」，
-										製作現場環境衛生差，
-										加工機具藏汙納垢，
-										因違反食安法情節重大，
-										當場命令停止製造及加工，
-										並將庫存產品封存，
-										責令業者不得包裝、運送、販賣及輸出，
-										主要銷售對象為桃園、新竹縣市早餐業......(詳全文)</br> </p>
-                                    </div>
->>>>>>> 78695c7d2de809d62177f0ca4e90354be3c2930b
                                 </div>
                                 <img src="assets/base/img/content/news/picture/food.jpg" class="img-responsive c-overlay-object" alt="" style="height:226.578px"> </div>
                                 <div class="c-body">
-
+​
                                   <div class="c-head">
                                     <ul class="c-socials c-theme-ul">
                                       <li><a href="#"><i class="icon-heart"></i></a></li>
@@ -453,7 +256,7 @@ Follow: http://www.twitter.com/themehats
                                     </ul>
                                     <div class="c-name c-font-uppercase c-font-bold">新竹市衛生局查核違規蘿蔔糕、蛋餅皮、蔥油餅等加工食品</div>
                                   </div>
-
+​
                                   <div class="c-position">請民眾安心</div>
                                   <p>新竹市衛生局今(27)日表示，昨下午接獲新竹縣政府衛生局通報，位於湖口鄉廢棄加油站設置之「稻香食品行」，製作現場環境衛生差，加工機具藏汙納垢，因違反食安法情節重大，當場命令停止製造及加工，並將庫存產品封存，責令業者不得包裝、運送、販賣及輸出，主要銷售對象為桃園、新竹縣市早餐業......</p>
                                   <a href="#">詳全文</a>
@@ -466,7 +269,6 @@ Follow: http://www.twitter.com/themehats
                     <!-- End-->
                 </div>
             </div>
-            <!-- END: CONTENT/SLIDERS/TEAM-2 -->
 
         <!-- 相關資訊 -->
         <!-- BEGIN: CONTENT/TABS/TAB-3 -->
