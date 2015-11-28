@@ -9753,11 +9753,13 @@ h1 {
 
 .c-content-tab-4.c-opt-3 > .nav > li:nth-child(even).active > a, .c-content-tab-4.c-opt-3 > .nav > li:nth-child(even):active > a {
   color: #ffffff;
+
   background-color: #32c5d2;}
 
 .c-content-tab-4.c-opt-3 > .tab-content {
   background-color: #f6f9fb;
   height: 415px; }
+
   .c-content-tab-4.c-opt-3 > .tab-content .c-tab-items > li h4 {
     color: #5f6f77; }
   .c-content-tab-4.c-opt-3 > .tab-content .c-tab-items > li p {
