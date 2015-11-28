@@ -9751,10 +9751,11 @@ h1 {
 
 .c-content-tab-4.c-opt-3 > .nav > li:nth-child(even).active > a, .c-content-tab-4.c-opt-3 > .nav > li:nth-child(even):active > a {
   color: #ffffff;
-  background-color: #5bc2ce; }
+  background-color: #5bc2ce;}
 
 .c-content-tab-4.c-opt-3 > .tab-content {
-  background-color: #f6f9fb; }
+  background-color: #f6f9fb;
+  height: 405px; }
   .c-content-tab-4.c-opt-3 > .tab-content .c-tab-items > li h4 {
     color: #5f6f77; }
   .c-content-tab-4.c-opt-3 > .tab-content .c-tab-items > li p {
