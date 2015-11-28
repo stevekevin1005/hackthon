@@ -31,11 +31,11 @@ Follow: http://www.twitter.com/themehats
                         </div>
                         <ul class="c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular">
                             <li>
-                                <a href="#" class="c-font-white">主管</a>
+                                <a href="#team1" class="c-font-white">主管</a>
                             </li>
                             <li class="c-font-white">/</li>
                             <li>
-                                <a href="" class="c-font-white">職員</a>
+                                <a href="#team2" class="c-font-white">職員</a>
                             </li>
                             <li class="c-font-white">/</li>
                             <li>
@@ -48,7 +48,7 @@ Follow: http://www.twitter.com/themehats
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-4 -->
             <!-- BEGIN: PAGE CONTENT -->
             <!-- BEGIN: CONTENT/SLIDERS/TEAM-1 -->
-            <div class="c-content-box c-size-md c-bg-white">
+            <div class="c-content-box c-size-md c-bg-white" id="team1">
                 <div class="container">
                     <!-- Begin: Testimonals 1 component -->
                     <div class="c-content-person-1-slider" data-slider="owl" data-items="3" data-auto-play="8000">
@@ -268,7 +268,7 @@ Follow: http://www.twitter.com/themehats
             </div>
             <!-- END: CONTENT/SLIDERS/TEAM-1 -->
             <!-- BEGIN: CONTENT/MISC/TEAM-3 -->
-            <div class="c-content-box c-size-md c-bg-grey-1">
+            <div class="c-content-box c-size-md c-bg-grey-1" id="team2">
                 <div class="container">
                     <!-- Begin: Testimonals 1 component -->
                     <div class="c-content-team-1-slider" data-slider="owl" data-items="3">
