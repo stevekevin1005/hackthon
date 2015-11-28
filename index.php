@@ -697,79 +697,8 @@ Follow: http://www.twitter.com/themehats
 
         
     <!-- BEGIN: LAYOUT/FOOTERS/FOOTER-8 -->
-    <a name="footer"></a>
-    <footer class="c-layout-footer c-layout-footer-4 c-bg-footer-8">
-        <div class="c-footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 c-footer-4-p-right">
-                        <div class="c-content-title-1">
-                            <h3 class="c-font-uppercase c-font-bold c-font-white c-border">JAN
-                                <span class="c-theme-font">GO</span>
-                            </h3>
-                        </div>
-                        <p class="c-about"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed elit diam nonummy ad minim veniam quis nostrud exerci et tation diam nisl ut aliquip exit commodo consequat euismod tincidunt ut laoreet dolore magna aluam. </p>
-                        <div class="c-links">
-                            <ul class="c-nav">
-                                <li>
-                                    <a class="c-active c-theme-border c-theme-font" href="#">Home</a>
-                                </li>
-                                <li>
-                                    <a href="#">About</a>
-                                </li>
-                                <li>
-                                    <a href="#">Work</a>
-                                </li>
-                                <li>
-                                    <a href="#">Careers</a>
-                                </li>
-                                <li>
-                                    <a href="#">Contact</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <p class="c-contact"> 25, Lorem Lis Street, Orange C, California, US
-                            <br> Phone: 800 123 3456
-                            <br> Fax: 800 123 3456
-                            <br> Skype: jango.inc </p>
-                        <ul class="c-socials">
-                            <li>
-                                <a href="#">
-                                    <i class="icon-social-twitter"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="icon-social-facebook"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="icon-social-youtube"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="icon-social-dribbble"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-6 c-footer-4-p-left">
-                        <div class="c-feedback">
-                            <h3 class="c-font-thin">Contact Us</h3>
-                            <form action="#">
-                                <input type="text" placeholder="Your Name" class="form-control">
-                                <input type="text" placeholder="Your Email" class="form-control">
-                                <textarea rows="8" name="message" placeholder="Write comment here ..." class="form-control"></textarea>
-                                <button type="submit" class="btn c-btn-white c-btn-border-2x c-btn-uppercase btn-lg c-btn-bold c-btn-square">Send</button>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+
+    <?php include("footer.php") ?>
     <!-- END: LAYOUT/FOOTERS/FOOTER-8 -->
     <!-- BEGIN: LAYOUT/FOOTERS/GO2TOP -->
     <div class="c-layout-go2top">
