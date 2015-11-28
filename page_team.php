@@ -26,7 +26,7 @@ Follow: http://www.twitter.com/themehats
                 <div class="c-breadcrumbs-wrapper">
                     <div class="container">
                         <div class="c-page-title c-pull-left">
-                            <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim c-opacity-09">財政處</h3>
+                            <h1 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim c-opacity-09">財政處</h1>
                             <h4 class="c-font-white c-font-thin c-opacity-09">市民的資產由我們來守護</h4>
                         </div>
                         <ul class="c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular">
@@ -532,9 +532,7 @@ Follow: http://www.twitter.com/themehats
         </div>
         <!-- END: PAGE CONTAINER -->
         <!-- BEGIN: LAYOUT/FOOTERS/GO2TOP -->
-        <div class="c-layout-go2top">
-            <i class="icon-arrow-up"></i>
-        </div>
+        <?php include("footer.php") ?>
         <!-- END: LAYOUT/FOOTERS/GO2TOP -->
         <!-- BEGIN: LAYOUT/BASE/BOTTOM -->
         <!-- BEGIN: CORE PLUGINS -->
