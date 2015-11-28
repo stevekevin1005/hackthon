@@ -17,9 +17,6 @@ Follow: http://www.twitter.com/themehats
     <body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-fullscreen">
         <!-- BEGIN: LAYOUT/HEADERS/HEADER-1 -->
         <!-- BEGIN: HEADER -->
-    <?php
-      include("banner.php");
-    ?>
         <!-- END: HEADER -->
         <!-- END: LAYOUT/HEADERS/HEADER-1 -->
         <!-- BEGIN: CONTENT/USER/FORGET-PASSWORD-FORM -->
