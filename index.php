@@ -654,8 +654,8 @@ Follow: http://www.twitter.com/themehats
                               <div class="c-masonry-border"></div>
                               <div class="cbp-l-caption-alignCenter">
                                 <div class="cbp-l-caption-body">
-                                  <p style="color:#fff">愛心服務</p>
-                                  <a href="ajax/projects/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                  <p style="color:#fff">法律扶助</p>
+                                  <a href="theme/ajax/projects/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
                                 </div>
                               </div>
                             </div>
