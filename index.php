@@ -25,76 +25,79 @@ Follow: http://www.twitter.com/themehats
                 <div class="tp-banner">
                     <ul>
                         <!--BEGIN: SLIDE #1 -->
-                        <li data-transition="fade" data-slotamount="1" data-masterspeed="1000">
-                            <img alt="" src="assets/base/img/content/backgrounds/bg-5.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
-                            <!--BEGIN: MAIN TITLE -->
-                            <div class="caption customin customout tp-resizeme" data-x="center" data-y="center" data-hoffset="-385" data-voffset="-70" data-speed="500" data-start="1000" data-customin="x:0;y:0;z:0;rotationX:0.5;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                            data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-easing="Back.easeOut" data-splitin="none" data-splitout="none"
-                            data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
-                                <h3 class="c-main-title c-font-40 c-font-bold c-font-uppercase c-font-white"> Incredibly robust
-                                    <br> for any concept </h3>
-                            </div>
-                            <!--END -->
-                            <!--BEGIN: SUB TITLE -->
-                            <div class="caption customin customout tp-resizeme" data-x="center" data-y="center" data-hoffset="-390" data-voffset="45" data-speed="500" data-start="1500" data-customin="x:0;y:0;z:0;rotationX:0.5;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                            data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-easing="Back.easeOut" data-splitin="none" data-splitout="none"
-                            data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
-                                <p class="c-sub-title c-font-20 c-font-white"> Lorem ipsum dolor sit amet, consectetuer
-                                    <br> elit sed diam nonummy et nibh euismod
-                                    <br> aliquam sed diam nonummy siat et dolore </p>
-                            </div>
-                            <!--END -->
-                            <!--BEGIN: ACTION BUTTON -->
-                            <div class="caption randomrotateout tp-resizeme" data-x="center" data-y="center" data-hoffset="-500" data-voffset="130" data-speed="500" data-start="2000" data-easing="Back.easeOut">
-                                <a href="#" class="c-action-btn btn btn-md c-btn-square c-btn-bold c-btn-border-2x c-btn-white c-btn-uppercase">Explore</a>
-                            </div>
-                            <!--END -->
-                        </li>
-                        <!--END -->
-                        <!--BEGIN: SLIDE #2 -->
-                        <li data-transition="fade" data-slotamount="1" data-masterspeed="1000">
-                            <img alt="" src="assets/base/img/content/backgrounds/bg-4.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
-                            <!--BEGIN: MAIN TITLE -->
-                            <div class="caption customin customout tp-resizeme" data-x="center" data-y="center" data-hoffset="" data-voffset="-130" data-speed="500" data-start="1500" data-customin="x:0;y:0;z:0;rotationX:0.5;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                            data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-easing="Back.easeOut" data-splitin="none" data-splitout="none"
-                            data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
-                                <h3 class="c-font-40 c-font-bold c-font-center c-font-uppercase c-font-white c-block"> Fully Responsive
-                                    <br> Ready to Deploy </h3>
-                            </div>
-                            <!--END -->
-                            <!--BEGIN: ACTION BUTTON -->
-                            <div class="caption randomrotateout tp-resizeme" data-x="center" data-y="center" data-hoffset="" data-voffset="280" data-speed="500" data-start="2000" data-easing="Back.easeOut">
-                                <a href="#" class="c-action-btn btn btn-md c-btn-square c-btn-border-2x c-btn-white c-btn-bold c-btn-uppercase">Learn More</a>
-                            </div>
-                            <!--END -->
-                        </li>
-                        <!--END -->
-                        <!--BEGIN: SLIDE #3 -->
-                        <li data-transition="fade" data-slotamount="8" data-masterspeed="700" data-delay="6000" data-thumb="">
-                            <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-                            <img src="assets/base/img/layout/sliders/revo-slider/base/blank.png" alt="">
-                            <div class="caption fulllscreenvideo tp-videolayer" data-x="0" data-y="0" data-speed="600" data-start="1000" data-easing="Power4.easeOut" data-endspeed="500" data-endeasing="Power4.easeOut" data-autoplay="true" data-autoplayonlyfirsttime="false"
-                            data-nextslideatend="true" data-videowidth="100%" data-videoheight="100%" data-videopreload="meta" data-videomp4="assets/base/media/video/video-2.mp4" data-videowebm="" data-videocontrols="none" data-forcecover="1" data-forcerewind="on"
-                            data-aspectratio="16:9" data-volume="mute" data-videoposter="assets/base/img/layout/sliders/revo-slider/base/blank.png"> </div>
-                            <div class="caption customin customout tp-resizeme" data-x="center" data-y="center" data-hoffset="" data-voffset="-30" data-speed="500" data-start="1000" data-customin="x:0;y:0;z:0;rotationX:0.5;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                            data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-easing="Back.easeOut" data-splitin="none" data-splitout="none"
-                            data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
-                                <h3 class="c-font-55 c-font-bold c-font-center c-font-uppercase c-font-white c-block"> Design that speaks
-                                    <br>to modern trends </h3>
-                            </div>
-                            <div class="caption lft tp-resizeme" data-x="center" data-y="center" data-voffset="130" data-speed="900" data-start="2000" data-easing="easeOutExpo">
-                                <a href="#" class="c-action-btn btn btn-md c-btn-square c-btn-border-2x c-btn-white c-btn-bold c-btn-uppercase">Purchase</a>
-                            </div>
-                            <div class="tp-caption arrowicon customin rs-parallaxlevel-0 visible-xs" data-x="center" data-y="bottom" data-hoffset="0" data-voffset="-60" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                            data-speed="500" data-start="2000" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-linktoslide="next" style="z-index: 13;">
-                                <div class="rs-slideloop" data-easing="Power3.easeInOut" data-speed="0.5" data-xs="-5" data-xe="5" data-ys="0" data-ye="0">
-                                    <span class="c-video-hint c-font-15 c-font-sbold c-font-center c-font-dark"> Tap to play video
-                                        <i class="icon-control-play"></i>
-                                    </span>
+                            <li data-transition="fade" data-slotamount="1" data-masterspeed="1000">
+                                <img alt="" src="assets/base/img/content/backgrounds/bg-5.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                <!--BEGIN: MAIN TITLE -->
+                                <div class="caption customin customout tp-resizeme" data-x="center" data-y="center" data-hoffset="-385" data-voffset="-70" data-speed="500" data-start="1000" data-customin="x:0;y:0;z:0;rotationX:0.5;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-easing="Back.easeOut" data-splitin="none" data-splitout="none"
+                                data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
+                                    <h3 class="c-main-title c-font-40 c-font-bold c-font-uppercase c-font-white"> 融合古典與科技
+                                        <br>  的摩登市府 </h3>
                                 </div>
-                            </div>
-                        </li>
-                        <!--END -->
+                                <!--END -->
+								
+                                <!--BEGIN: SUB TITLE -->
+                                <!-- <div class="caption customin customout tp-resizeme" data-x="center" data-y="center" data-hoffset="-390" data-voffset="45" data-speed="500" data-start="1500" data-customin="x:0;y:0;z:0;rotationX:0.5;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-easing="Back.easeOut" data-splitin="none" data-splitout="none"
+                                data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
+                                    <p class="c-sub-title c-font-20 c-font-white"> Lorem ipsum dolor sit amet, consectetuer
+                                        <br> elit sed diam nonummy et nibh euismod
+                                        <br> aliquam sed diam nonummy siat et dolore </p>
+                                </div> -->
+                                <!--END -->
+								
+                                <!--BEGIN: ACTION BUTTON -->
+                                <div class="caption randomrotateout tp-resizeme" data-x="center" data-y="center" data-hoffset="-500" data-voffset="130" data-speed="500" data-start="2000" data-easing="Back.easeOut">
+                                    <a href="#" class="c-action-btn btn btn-md c-btn-square c-btn-bold c-btn-border-2x c-btn-white c-btn-uppercase">關於我們的故事</a>
+                                </div>
+                                <!--END -->
+                            </li>
+                            <!--END -->
+                            <!--BEGIN: SLIDE #2 -->
+                            <li data-transition="fade" data-slotamount="1" data-masterspeed="1000">
+                                <img alt="" src="assets/base/img/content/backgrounds/Future.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                <!--BEGIN: MAIN TITLE -->
+                                <div class="caption customin customout tp-resizeme" data-x="center" data-y="center" data-hoffset="" data-voffset="-130" data-speed="500" data-start="1500" data-customin="x:0;y:0;z:0;rotationX:0.5;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-easing="Back.easeOut" data-splitin="none" data-splitout="none"
+                                data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
+                                    <h3 class="c-font-40 c-font-bold c-font-center c-font-uppercase c-font-black c-block" style="margin-left:850px">揮別過去 改變現在 
+                                        <br> 迎向未來 </h3>
+										<!-- <br> LAG、@、加速、# </h3> -->
+                                </div>
+                                <!--END -->
+                                <!--BEGIN: ACTION BUTTON -->
+                                <div class="caption randomrotateout tp-resizeme" data-x="center" data-y="center" data-hoffset="" data-voffset="280" data-speed="500" data-start="2000" data-easing="Back.easeOut">
+                                    <a href="#" class="c-action-btn btn btn-md c-btn-square c-btn-border-2x c-btn-white c-btn-bold c-btn-uppercase">我們怎麼做到的?</a>
+                                </div>
+                                <!--END -->
+                            </li>
+                            <!--END -->
+                            <!--BEGIN: SLIDE #3 -->
+                            <li data-transition="fade" data-slotamount="8" data-masterspeed="700" data-delay="6000" data-thumb="">
+                                <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
+                                <img src="assets/base/img/content/backgrounds/OldPic.jpg" alt="">
+                                <!-- <div class="caption fulllscreenvideo tp-videolayer" data-x="0" data-y="0" data-speed="600" data-start="1000" data-easing="Power4.easeOut" data-endspeed="500" data-endeasing="Power4.easeOut" data-autoplay="true" data-autoplayonlyfirsttime="false"
+                                data-nextslideatend="true" data-videowidth="100%" data-videoheight="100%" data-videopreload="meta" data-videomp4="assets/base/media/video/video-2.mp4" data-videowebm="" data-videocontrols="none" data-forcecover="1" data-forcerewind="on"
+                                data-aspectratio="16:9" data-volume="mute" data-videoposter="assets/base/img/layout/sliders/revo-slider/base/blank.png"> </div> -->
+                                <div class="caption customin customout tp-resizeme" data-x="center" data-y="center" data-hoffset="" data-voffset="-30" data-speed="500" data-start="1000" data-customin="x:0;y:0;z:0;rotationX:0.5;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-easing="Back.easeOut" data-splitin="none" data-splitout="none"
+                                data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
+                                    <h3 class="c-font-55 c-font-bold c-font-center c-font-uppercase c-font-white c-block"style="margin-left:500"> 舊是新竹
+                                        <br> 風華無限</h3>
+                                </div>
+                                <div class="caption lft tp-resizeme" data-x="center" data-y="center" data-voffset="130" data-speed="900" data-start="2000" data-easing="easeOutExpo">
+                                    <a href="#" class="c-action-btn btn btn-md c-btn-square c-btn-border-2x c-btn-white c-btn-bold c-btn-uppercase">聽古蹟說故事</a>
+                                </div>
+                                <div class="tp-caption arrowicon customin rs-parallaxlevel-0 visible-xs" data-x="center" data-y="bottom" data-hoffset="0" data-voffset="-60" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="500" data-start="2000" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-linktoslide="next" style="z-index: 13;">
+                                    <div class="rs-slideloop" data-easing="Power3.easeInOut" data-speed="0.5" data-xs="-5" data-xe="5" data-ys="0" data-ye="0">
+                                        <span class="c-video-hint c-font-15 c-font-sbold c-font-center c-font-dark"> Tap to play video
+                                            <i class="icon-control-play"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                            </li>
+                            <!--END -->
                     </ul>
                 </div>
             </div>
