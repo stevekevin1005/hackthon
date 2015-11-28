@@ -51,13 +51,14 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden; }
+    overflow: hidden;}
   .cbp img {
     display: block;
     width: auto;
     height: auto;
     min-width: 100%;
-    max-width: 100%; }
+    max-width: 100%;
+    padding: 10px 5px; }
   .cbp a, .cbp a:hover, .cbp a:active {
     text-decoration: none;
     outline: 0; }
