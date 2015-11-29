@@ -210,7 +210,7 @@ Follow: http://www.twitter.com/themehats
                                     <a href="assets/base/img/content/team/team9.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2"><i class="icon-magnifier"></i></a>
                                   </div>
                                 </div>
-                                <img src="assets/base/img/content/news/picture/gun.jpg" class="img-responsive c-overlay-object" alt="" style="height:226.578px"> </div>
+                                <img src="assets/base/img/content/news/picture/gun.jpg" class="img-responsive c-overlay-object" alt=""> </div>
                                 <div class="c-body">
 ​
                                   <div class="c-head">
@@ -239,7 +239,7 @@ Follow: http://www.twitter.com/themehats
                                     <a href="assets/base/img/content/team/team9.jpg" data-lightbox="fancybox" data-fancybox-group="gallery-2"><i class="icon-magnifier"></i></a>
                                   </div>
                                 </div>
-                                <img src="assets/base/img/content/news/picture/food.jpg" class="img-responsive c-overlay-object" alt="" style="height:226.578px"> </div>
+                                <img src="assets/base/img/content/news/picture/food.jpg" class="img-responsive c-overlay-object" alt=""> </div>
                                 <div class="c-body">
 ​
                                   <div class="c-head">
@@ -268,7 +268,7 @@ Follow: http://www.twitter.com/themehats
         <!-- BEGIN: CONTENT/TABS/TAB-3 -->
         <div class="c-content-box c-size-md">
             <div class="container">
-                <div class="col-md-6 col-sm-12">
+                <div class="col-md-6 col-sm-12" style="margin-bottom:20px">
                     <div class="c-content-tab-4 c-opt-3" role="tabpanel">
                         <ul class="nav nav-justified" role="tablist">
                             <li role="presentation" class="active">
@@ -522,22 +522,196 @@ Follow: http://www.twitter.com/themehats
 
                 <!-- 快速服務 -->
                 <div class="col-md-6 col-sm-12">
-                  <div class="cbp-panel">
-                    <!-- SEE: components.js:ContentCubeLatestPortfolio -->
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/c-01.jpg" style="float:left; z-index:-1">
-                              <i class="fa fa-gavel fa-5x" style="float:left; position:absolute"></i>
+                    <div class="c-body">
+                      <div class="row">
+                        <div class="col-md-12">
+                          <div class="panel panel-default">
+                            <div class="panel-heading">
+                              <h3 class="panel-title c-font-green c-font-18 c-font-bold">快速服務</h3>
                             </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <p style="color:#fff">新竹市 APP</p>
-                                  <a href="#" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">Explore</a>
+                            <div class="panel-body">
+                              <div class="cbp-panel" style="margin-top:20px">
+                                <!-- SEE: components.js:ContentCubeLatestPortfolio -->
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                  <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                                    <div class="cbp-item web-design logos">
+                                      <div class="cbp-caption">
+                                        <div class="cbp-caption-defaultWrap">
+                                          <img src="assets/base/img/content/stock/c-01.jpg" class="img-responsive c-overlay-object" style="float:left; z-index:-1">
+                                          <i class="fa fa-gavel fa-5x" style="float:left; position:absolute"></i>
+                                        </div>
+                                        <div class="cbp-caption-activeWrap">
+                                          <div class="c-masonry-border"></div>
+                                          <div class="cbp-l-caption-alignCenter">
+                                            <div class="cbp-l-caption-body">
+                                              <p style="color:#fff">新竹市 APP</p>
+                                              <a href="#" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">Explore</a>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                  <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                                    <div class="cbp-item web-design logos">
+                                      <div class="cbp-caption">
+                                        <div class="cbp-caption-defaultWrap">
+                                          <img src="assets/base/img/content/stock/c-02.jpg" class="img-responsive c-overlay-object" alt="">
+                                        </div>
+                                        <div class="cbp-caption-activeWrap">
+                                          <div class="c-masonry-border"></div>
+                                          <div class="cbp-l-caption-alignCenter">
+                                            <div class="cbp-l-caption-body">
+                                              <p style="color:#fff">e 好辦</p>
+                                              <a href="ajax/projects/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                  <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                                    <div class="cbp-item web-design logos">
+                                      <div class="cbp-caption">
+                                        <div class="cbp-caption-defaultWrap">
+                                          <img src="assets/base/img/content/stock/c-03.jpg" class="img-responsive c-overlay-object" alt="">
+                                        </div>
+                                        <div class="cbp-caption-activeWrap">
+                                          <div class="c-masonry-border"></div>
+                                          <div class="cbp-l-caption-alignCenter">
+                                            <div class="cbp-l-caption-body">
+                                              <p style="color:#fff">市長臉書</p>
+                                              <a href="ajax/projects/project3.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                  <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                                    <div class="cbp-item web-design logos">
+                                      <div class="cbp-caption">
+                                        <div class="cbp-caption-defaultWrap">
+                                          <img src="assets/base/img/content/stock/c-04.jpg" class="img-responsive c-overlay-object" alt="">
+                                        </div>
+                                        <div class="cbp-caption-activeWrap">
+                                          <div class="c-masonry-border"></div>
+                                          <div class="cbp-l-caption-alignCenter">
+                                            <div class="cbp-l-caption-body">
+                                              <p style="color:#fff">服務中心</p>
+                                              <a href="ajax/projects/project4.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                  <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                                    <div class="cbp-item web-design logos">
+                                      <div class="cbp-caption">
+                                        <div class="cbp-caption-defaultWrap">
+                                          <img src="assets/base/img/content/stock/c-05.jpg" class="img-responsive c-overlay-object" alt="">
+                                        </div>
+                                        <div class="cbp-caption-activeWrap">
+                                          <div class="c-masonry-border"></div>
+                                          <div class="cbp-l-caption-alignCenter">
+                                            <div class="cbp-l-caption-body">
+                                              <p style="color:#fff">服務專線</p>
+                                              <a href="ajax/projects/project5.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                  <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                                    <div class="cbp-item web-design logos">
+                                      <div class="cbp-caption">
+                                        <div class="cbp-caption-defaultWrap">
+                                          <img src="assets/base/img/content/stock/c-06.jpg" class="img-responsive c-overlay-object" alt="">
+                                        </div>
+                                        <div class="cbp-caption-activeWrap">
+                                          <div class="c-masonry-border"></div>
+                                          <div class="cbp-l-caption-alignCenter">
+                                            <div class="cbp-l-caption-body">
+                                              <p style="color:#fff">服務信箱</p>
+                                              <a href="ajax/projects/project6.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                  <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                                    <div class="cbp-item web-design logos">
+                                      <div class="cbp-caption">
+                                        <div class="cbp-caption-defaultWrap">
+                                          <img src="assets/base/img/content/stock/c-07.jpg" class="img-responsive c-overlay-object" alt="">
+                                        </div>
+                                        <div class="cbp-caption-activeWrap">
+                                          <div class="c-masonry-border"></div>
+                                          <div class="cbp-l-caption-alignCenter">
+                                            <div class="cbp-l-caption-body">
+                                              <p style="color:#fff">交通資訊</p>
+                                              <a href="ajax/projects/project7.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                  <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                                    <div class="cbp-item web-design logos">
+                                      <div class="cbp-caption">
+                                        <div class="cbp-caption-defaultWrap">
+                                          <img src="assets/base/img/content/stock/c-08.jpg" class="img-responsive c-overlay-object" alt="">
+                                        </div>
+                                        <div class="cbp-caption-activeWrap">
+                                          <div class="c-masonry-border"></div>
+                                          <div class="cbp-l-caption-alignCenter">
+                                            <div class="cbp-l-caption-body">
+                                              <p style="color:#fff">法律扶助</p>
+                                              <a href="theme/ajax/projects/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                  <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
+                                    <div class="cbp-item web-design logos">
+                                      <div class="cbp-caption">
+                                        <div class="cbp-caption-defaultWrap">
+                                          <img src="assets/base/img/content/stock/c-09.jpg" class="img-responsive c-overlay-object" alt="">
+                                        </div>
+                                        <div class="cbp-caption-activeWrap">
+                                          <div class="c-masonry-border"></div>
+                                          <div class="cbp-l-caption-alignCenter">
+                                            <div class="cbp-l-caption-body">
+                                              <p style="color:#fff">更多服務</p>
+                                              <a href="ajax/projects/project9.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
                                 </div>
                               </div>
                             </div>
@@ -545,168 +719,9 @@ Follow: http://www.twitter.com/themehats
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/c-02.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <p style="color:#fff">e 好辦</p>
-                                  <a href="ajax/projects/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/c-03.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <p style="color:#fff">市長臉書</p>
-                                  <a href="ajax/projects/project3.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/c-04.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <p style="color:#fff">服務中心</p>
-                                  <a href="ajax/projects/project4.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/c-05.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <p style="color:#fff">服務專線</p>
-                                  <a href="ajax/projects/project5.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/c-06.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <p style="color:#fff">服務信箱</p>
-                                  <a href="ajax/projects/project6.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/c-07.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <p style="color:#fff">交通資訊</p>
-                                  <a href="ajax/projects/project7.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/c-08.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <p style="color:#fff">法律扶助</p>
-                                  <a href="theme/ajax/projects/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                      <div class="c-content-latest-works cbp cbp-l-grid-masonry-projects">
-                        <div class="cbp-item web-design logos">
-                          <div class="cbp-caption">
-                            <div class="cbp-caption-defaultWrap">
-                              <img src="assets/base/img/content/stock/c-09.jpg" alt="">
-                            </div>
-                            <div class="cbp-caption-activeWrap">
-                              <div class="c-masonry-border"></div>
-                              <div class="cbp-l-caption-alignCenter">
-                                <div class="cbp-l-caption-body">
-                                  <p style="color:#fff">更多服務</p>
-                                  <a href="ajax/projects/project9.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn c-btn-square c-btn-border-1x c-btn-white c-btn-bold c-btn-uppercase">explore</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
                 </div>
+                
+
             </div>
         </div>
         

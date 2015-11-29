@@ -22,17 +22,17 @@ Follow: http://www.twitter.com/themehats
       $p->data = array(array(array('a',6), array('b',8), array('c',14), array('d',20)));
       $p->chart_type = "donut";
       // Common Options
-      $p->title = "<p><a href=\"#\">營建預算(詳情請點我)</a></p><p>總預算:4332212</p>(藍:都更 紅:道路 綠:公園 藍:鐵路)";
+      $p->title = "<p>營建預算<br><a href=\"#\" style=\"font-size:14px\">（ 詳情請點我 ）</a></p><p>總預算：4,332,212 <span style=\"font-size:14px\">新台幣元整</span></p>";
       $out = $p->render('c1');
       $p->data = array(array(array('a',26), array('b',18), array('c',4), array('d',5)));
       $p->chart_type = "donut";
       // Common Options
-      $p->title = "<p><a href=\"#\">醫療預算(詳情請點我)</a></p><p>總預算:3441234</p>(藍:藥品 紅:救難 綠:獎勵 藍:預防)";
+      $p->title = "<p>醫療預算<br><a href=\"#\" style=\"font-size:14px\">（ 詳情請點我 ）</a></p><p>總預算：3,441,234 <span style=\"font-size:14px\">新台幣元整</span></p>";
       $out2 = $p->render('c2');
-      $p->data = array(array(array('a',48), array('b',48), array('c',4)));
+      $p->data = array(array(array('a',48), array('b',32), array('c',10), array('d',20)));
       $p->chart_type = "donut";
       // Common Options
-      $p->title = "<p><a href=\"#\">吃客松預算(詳情請點我)</a></p><p>總預算:1000000</p>(藍:食物 綠:飲料 紅:獎勵)";
+      $p->title = "<p>吃客松預算<br><a href=\"#\" style=\"font-size:14px\">（ 詳情請點我 ）</a></p><p>總預算：1,000,000 <span style=\"font-size:14px\">新台幣元整</span></p>";
       $out3 = $p->render('c3');
     ?>
     <style>
@@ -44,15 +44,16 @@ Follow: http://www.twitter.com/themehats
         <!-- END: LAYOUT/HEADERS/HEADER-1 -->
         <!-- BEGIN: PAGE CONTAINER -->
         <div class="c-layout-page">
+          <img src="assets/base/img/content/backgrounds/bg-96.jpg" alt="" style="width:100%; margin-top:-550px">
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-1 -->
             <div class="c-layout-breadcrumbs-1 c-fonts-uppercase c-fonts-bold">
                 <div class="container">
                     <div class="c-page-title c-pull-left">
-                        <h3 class="c-font-uppercase c-font-sbold"><a href="http://opendata.hccg.gov.tw/">開放資料專區(想瞭解更多請點我)</a></h3>
+                        <h3 class="c-font-uppercase c-font-sbold">開放資料專區<a href="http://opendata.hccg.gov.tw/"><i class="fa fa-file-text" style="margin-left:10px"></i></a></h3>
                     </div>
                     <ul class="c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular">
                         <li>
-                            <a href="#data1">預算分派</a>
+                            <a href="#data1">預算分配</a>
                         </li>
                         <li>/</li>
                         <li>
@@ -66,20 +67,35 @@ Follow: http://www.twitter.com/themehats
             <!-- BEGIN: CONTENT/STATS/COUNTER-1 -->
             <div class="c-content-box c-size-md c-bg-white" id="data1">
                <div class="container">
-                    <div class="c-content-counter-1">
+                    <div class="c-content-counter-1"  style="margin-left:45px">
                         <div class="c-content-title-1">
-                            <h3 class="c-center c-font-uppercase c-font-bold c-font-bold">預算分派</h3>
+                            <h3 class="c-center c-font-uppercase c-font-bold c-font-bold"  style="margin-left:-25px">預算分配</h3>
                             <div class="c-line-center c-bg-white"></div>
                         </div>
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="c-theme-border c-font-bold c-theme-font" ><?php echo $out; ?></div>
+                                <div class="col-md-3"></div>
+                                <div class="col-md-1"><p><i class="fa fa-square" style="color:#33BDDA; margin:2px"></i>都更</p></div>
+                                <div class="col-md-1"><p><i class="fa fa-square" style="color:#E44A00; margin:2px"></i>道路</p></div>
+                                <div class="col-md-1"><p><i class="fa fa-square" style="color:#97C34D; margin:2px"></i>公園</p></div>
+                                <div class="col-md-1"><p><i class="fa fa-square" style="color:#008EE4; margin:2px"></i>鐵路</p></div>
                             </div>
                             <div class="col-md-4">
-                                <div class="c-theme-border c-font-bold c-theme-font"><?php echo $out2; ?></div>
+                                <div class="c-theme-border c-font-bold c-theme-font" ><?php echo $out2; ?></div>
+                                <div class="col-md-3"></div>
+                                <div class="col-md-1"><p><i class="fa fa-square" style="color:#33BDDA; margin:2px"></i>預防</p></div>
+                                <div class="col-md-1"><p><i class="fa fa-square" style="color:#E44A00; margin:2px"></i>救難</p></div>
+                                <div class="col-md-1"><p><i class="fa fa-square" style="color:#97C34D; margin:2px"></i>獎勵</p></div>
+                                <div class="col-md-1"><p><i class="fa fa-square" style="color:#008EE4; margin:2px"></i>藥品</p></div>
                             </div>
                             <div class="col-md-4">
-                                <div class="c-theme-border c-font-bold c-theme-font"><?php echo $out3; ?></div>
+                                <div class="c-theme-border c-font-bold c-theme-font" ><?php echo $out3; ?></div>
+                                <div class="col-md-3"></div>
+                                <div class="col-md-1"><p><i class="fa fa-square" style="color:#33BDDA; margin:2px"></i>設備</p></div>
+                                <div class="col-md-1"><p><i class="fa fa-square" style="color:#E44A00; margin:2px"></i>獎勵</p></div>
+                                <div class="col-md-1"><p><i class="fa fa-square" style="color:#97C34D; margin:2px"></i>飲料</p></div>
+                                <div class="col-md-1"><p><i class="fa fa-square" style="color:#008EE4; margin:2px"></i>食物</p></div>
                             </div>
                         </div>
                     </div>

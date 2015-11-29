@@ -9836,11 +9836,14 @@ h1 {
   /* 1199px */
   .c-content-tab-4 > .nav > li:last-child {
     margin-left: 0.06px; } }
+  .c-content-tab-4.c-opt-3 > .tab-content {
+  height: 555px; }
 
 @media (max-width: 991px) {
   /* 991px */
   .c-content-tab-4 > .nav > li:last-child {
     margin-left: 0.01px; } }
+
 
 @media (max-width: 767px) {
   /* 766px */
@@ -9848,6 +9851,7 @@ h1 {
     padding-bottom: 15px; }
   .c-content-tab-4 > .tab-content .c-tab-items > li h4, .c-content-tab-4 > .tab-content .c-tab-items > li p {
     padding: 0 25px; } }
+
 
 .c-content-tab-5 .c-nav-tab {
   text-align: center;
