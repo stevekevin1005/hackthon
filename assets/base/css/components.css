@@ -9075,13 +9075,26 @@ h1 {
       font-size: 18px; }
 
 .c-content-person-1 .c-body {
-  padding: 20px 0; }
+  padding: 20px 0;
+  border-radius: 10px; }
+  .c-content-person-1 img {
+    border-radius: 10px 10px 0px 0px; 
+  }
+  .c-content-person-1 p {
+    font-size: 14px; 
+  }
+  .c-content-person-1 a {
+    font-size: 14px; 
+    color: #333;
+    float: right;
+  }
   .c-content-person-1 .c-body .c-head .c-name {
     display: inline-block;
     float: left;
     font-size: 20px;
     font-weight: 400;
-    color: #3f444a; }
+    color: #3f444a;
+    margin: 5px 0px; }
   .c-content-person-1 .c-body .c-head .c-socials {
     display: inline-block;
     float: right;
@@ -9758,7 +9771,7 @@ h1 {
 
 .c-content-tab-4.c-opt-3 > .tab-content {
   background-color: #f6f9fb;
-  height: 415px; }
+  height: 500px; }
 
   .c-content-tab-4.c-opt-3 > .tab-content .c-tab-items > li h4 {
     color: #5f6f77; }
@@ -10151,7 +10164,7 @@ h1 {
             transition: all 0.2s; }
   .c-content-accordion-1 .panel > .panel-collapse > .panel-body {
     border-top: none;
-    padding: 0px 30px 20px 30px;
+    padding: 10px 20px 20px 20px;
     color: #ffffff; }
 
 .c-content-accordion-1.c-accordion-white .panel > .panel-heading > .panel-title > a {
