@@ -13,9 +13,32 @@ Follow: http://www.twitter.com/themehats
 <html lang="en">
     <!--<![endif]-->
     <!-- BEGIN HEAD -->
+    <link rel="stylesheet" href="php_image/lib/js/chartphp.css">
+    <script src="assets/plugins/jquery.min.js" type="text/javascript"></script>
     <?php 
       include("header.php");
+      include("php_image/lib/inc/chartphp_dist.php");
+      $p = new chartphp();
+      $p->data = array(array(array('a',6), array('b',8), array('c',14), array('d',20)));
+      $p->chart_type = "donut";
+      // Common Options
+      $p->title = "<p><a href=\"#\">營建預算(詳情請點我)</a></p><p>總預算:4332212</p>(藍:都更 紅:道路 綠:公園 藍:鐵路)";
+      $out = $p->render('c1');
+      $p->data = array(array(array('a',26), array('b',18), array('c',4), array('d',5)));
+      $p->chart_type = "donut";
+      // Common Options
+      $p->title = "<p><a href=\"#\">醫療預算(詳情請點我)</a></p><p>總預算:3441234</p>(藍:藥品 紅:救難 綠:獎勵 藍:預防)";
+      $out2 = $p->render('c2');
+      $p->data = array(array(array('a',48), array('b',48), array('c',4)));
+      $p->chart_type = "donut";
+      // Common Options
+      $p->title = "<p><a href=\"#\">吃客松預算(詳情請點我)</a></p><p>總預算:1000000</p>(藍:食物 綠:飲料 紅:獎勵)";
+      $out3 = $p->render('c3');
     ?>
+    <style>
+  /* white color data labels */
+      .jqplot-data-label{color:white;}
+    </style>
     <body class="c-layout-header-fixed c-layout-header-mobile-fixed">
         <!-- BEGIN: LAYOUT/HEADERS/HEADER-1 -->
         <!-- END: LAYOUT/HEADERS/HEADER-1 -->
@@ -29,15 +52,11 @@ Follow: http://www.twitter.com/themehats
                     </div>
                     <ul class="c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular">
                         <li>
-                            <a href="#data1">生育保健</a>
+                            <a href="#data1">預算分派</a>
                         </li>
                         <li>/</li>
                         <li>
-                            <a href="#data2">生活安全</a>
-                        </li>
-                        <li>/</li>
-                        <li>
-                          <a href="#data3">公共資訊</a>
+                            <a href="#data2">生育保健</a>
                         </li>
                     </ul>
                 </div>
@@ -45,8 +64,31 @@ Follow: http://www.twitter.com/themehats
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-1 -->
             <!-- BEGIN: PAGE CONTENT -->
             <!-- BEGIN: CONTENT/STATS/COUNTER-1 -->
-            <div class="c-content-box c-size-md c-bg-white">
-                <div class="container">
+            <div class="c-content-box c-size-md c-bg-white" id="data1">
+               <div class="container">
+                    <div class="c-content-counter-1">
+                        <div class="c-content-title-1">
+                            <h3 class="c-center c-font-uppercase c-font-bold c-font-bold">預算分派</h3>
+                            <div class="c-line-center c-bg-white"></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="c-theme-border c-font-bold c-theme-font" ><?php echo $out; ?></div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="c-theme-border c-font-bold c-theme-font"><?php echo $out2; ?></div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="c-theme-border c-font-bold c-theme-font"><?php echo $out3; ?></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- END: CONTENT/STATS/COUNTER-1 -->
+            <!-- BEGIN: CONTENT/STATS/COUNTER-4 --> 
+            <div class="c-content-box c-size-lg c-bg-parallax"  id="data2" style="background-image: url(assets/base/img/content/backgrounds/bg-65.jpg)">
+              <div class="container">
                     <div class="c-content-counter-1 c-opt-1">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">生育保健類</h3>
@@ -70,289 +112,27 @@ Follow: http://www.twitter.com/themehats
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-            <!-- END: CONTENT/STATS/COUNTER-1 -->
-            <!-- BEGIN: CONTENT/STATS/COUNTER-4 -->
-            <div class="c-content-box c-size-lg c-bg-parallax" style="background-image: url(assets/base/img/content/backgrounds/bg-40.jpg)">
-                <div class="container">
-                    <div class="c-content-counter-1">
-                        <div class="c-content-title-1">
-                            <h3 class="c-center c-font-uppercase c-font-white c-font-bold">We never stop improving</h3>
-                            <div class="c-line-center c-bg-white"></div>
-                        </div>
-                        <div class="row c-margin-t-60">
-                            <div class="col-md-4">
-                                <div class="c-counter c-font-white c-bordered c-border-red c-font-white" data-counter="counterup">130</div>
-                                <h4 class="c-title c-first c-font-white c-font-uppercase c-font-bold">Current Pages</h4>
-                                <p class="c-content c-font-white c-opacity-08">..and growing. We will never stop improving and updating JANGO. Expect more.</p>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="c-counter c-font-white c-bordered c-border-blue c-font-white" data-counter="counterup">35,500</div>
-                                <h4 class="c-title c-font-white c-font-uppercase c-font-bold">Satisfied Customers</h4>
-                                <p class="c-content c-font-white c-opacity-08">Our Professional and dedicated team are on stand by to server your every concern.</p>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="c-counter c-font-white c-bordered c-border-green c-font-white" data-counter="counterup">101,865</div>
-                                <h4 class="c-title c-font-white c-font-uppercase c-font-bold">Total Downloads</h4>
-                                <p class="c-content c-font-white c-opacity-08">Join the community of over 101,865 users.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                </div>              
             </div>
             <!-- END: CONTENT/STATS/COUNTER-4 -->
-            <!-- BEGIN: CONTENT/STATS/COUNTER-2 -->
-            <div class="c-content-box c-size-md c-bg-parallax" style="background-image: url(assets/base/img/content/backgrounds/bg-3.jpg)">
-                <div class="container">
-                    <div class="c-content-counter-1">
-                        <div class="c-content-title-2">
-                            <h3 class="c-center c-font-uppercase c-font-white c-font-bold">We never stop improving</h3>
-                            <div class="c-line c-dot c-dot-center c-theme-bg c-theme-bg-after c-line-short"></div>
-                        </div>
-                        <div class="row c-margin-t-60">
-                            <div class="col-md-4">
-                                <div class="c-counter c-bg-red c-bg-red-font" data-counter="counterup">130</div>
-                                <h4 class="c-title c-first c-font-white c-font-uppercase c-font-bold">Current Pages</h4>
-                                <p class="c-content c-font-white c-opacity-08">..and growing. We will never stop improving and updating JANGO. Expect more.</p>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="c-counter c-bg-green c-bg-green-font" data-counter="counterup">35,500</div>
-                                <h4 class="c-title c-font-white c-font-uppercase c-font-bold">Satisfied Customers</h4>
-                                <p class="c-content c-font-white c-opacity-08">Our Professional and dedicated team are on stand by to server your every concern.</p>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="c-counter c-bg-blue c-bg-blue-font" data-counter="counterup">101,865</div>
-                                <h4 class="c-title c-font-white c-font-uppercase c-font-bold">Total Downloads</h4>
-                                <p class="c-content c-font-white c-opacity-08">Join the community of over 101,865 users.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- END: CONTENT/STATS/COUNTER-2 -->
-            <!-- BEGIN: CONTENT/STATS/COUNTER-3 -->
-            <div class="c-content-box c-size-md c-bg-parallax" style="background-image: url(assets/base/img/content/backgrounds/bg-29.jpg)">
-                <div class="container">
-                    <div class="c-content-counter-1">
-                        <div class="c-content-title-1">
-                            <h3 class="c-center c-font-uppercase c-font-white c-font-bold">We never stop improving</h3>
-                            <div class="c-line-center c-bg-white"></div>
-                        </div>
-                        <div class="row c-margin-t-60">
-                            <div class="col-md-4">
-                                <div class="c-counter c-font-white c-bordered c-border-red c-font-white" data-counter="counterup">130</div>
-                                <h4 class="c-title c-first c-font-white c-font-uppercase c-font-bold">Current Pages</h4>
-                                <p class="c-content c-font-white c-opacity-08">..and growing. We will never stop improving and updating JANGO. Expect more.</p>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="c-counter c-font-white c-bordered c-border-blue c-font-white" data-counter="counterup">35,500</div>
-                                <h4 class="c-title c-font-white c-font-uppercase c-font-bold">Satisfied Customers</h4>
-                                <p class="c-content c-font-white c-opacity-08">Our Professional and dedicated team are on stand by to server your every concern.</p>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="c-counter c-font-white c-bordered c-border-green c-font-white" data-counter="counterup">101,865</div>
-                                <h4 class="c-title c-font-white c-font-uppercase c-font-bold">Total Downloads</h4>
-                                <p class="c-content c-font-white c-opacity-08">Join the community of over 101,865 users.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- END: CONTENT/STATS/COUNTER-3 -->
+
             <!-- END: PAGE CONTENT -->
         </div>
         <!-- END: PAGE CONTAINER -->
         <!-- BEGIN: LAYOUT/FOOTERS/FOOTER-5 -->
-        <a name="footer"></a>
-        <footer class="c-layout-footer c-layout-footer-3 c-bg-dark">
-            <div class="c-prefooter">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-3">
-                            <div class="c-container c-first">
-                                <div class="c-content-title-1">
-                                    <h3 class="c-font-uppercase c-font-bold c-font-white">JAN
-                                        <span class="c-theme-font">GO</span>
-                                    </h3>
-                                    <div class="c-line-left hide"></div>
-                                    <p class="c-text"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, s ed elit diam nonummy ad minim veniam quis nostrud exerci et tation diam.</p>
-                                </div>
-                                <ul class="c-links">
-                                    <li>
-                                        <a href="#">Home</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">About</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Terms</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Contact</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="c-container">
-                                <div class="c-content-title-1">
-                                    <h3 class="c-font-uppercase c-font-bold c-font-white">Latest Posts</h3>
-                                    <div class="c-line-left hide"></div>
-                                </div>
-                                <div class="c-blog">
-                                    <div class="c-post">
-                                        <div class="c-post-img">
-                                            <img src="assets/base/img/content/stock/9.jpg" alt="" class="img-responsive" />
-                                        </div>
-                                        <div class="c-post-content">
-                                            <h4 class="c-post-title">
-                                                <a href="#">Ready to Launch</a>
-                                            </h4>
-                                            <p class="c-text">Lorem ipsum dolor sit amet ipsum sit, consectetuer adipiscing elit sit amet</p>
-                                        </div>
-                                    </div>
-                                    <div class="c-post c-last">
-                                        <div class="c-post-img">
-                                            <img src="assets/base/img/content/stock/14.jpg" alt="" class="img-responsive" />
-                                        </div>
-                                        <div class="c-post-content">
-                                            <h4 class="c-post-title">
-                                                <a href="#">Dedicated Support</a>
-                                            </h4>
-                                            <p class="c-text">Lorem ipsum dolor ipsum sit ipsum amet, consectetuer sit adipiscing elit ipsum elit elit ipsum elit</p>
-                                        </div>
-                                    </div>
-                                    <a href="#" class="btn btn-md c-btn-border-1x c-theme-btn c-btn-uppercase c-btn-square c-btn-bold c-read-more hide">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="c-container">
-                                <div class="c-content-title-1">
-                                    <h3 class="c-font-uppercase c-font-bold c-font-white">Latest Works</h3>
-                                    <div class="c-line-left hide"></div>
-                                </div>
-                                <ul class="c-works">
-                                    <li class="c-first">
-                                        <a href="#">
-                                            <img src="assets/base/img/content/stock/015.jpg" alt="" class="img-responsive" />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img src="assets/base/img/content/stock/012.jpg" class="img-responsive" alt="" />
-                                        </a>
-                                    </li>
-                                    <li class="c-last">
-                                        <a href="#">
-                                            <img src="assets/base/img/content/stock/12.jpg" alt="" class="img-responsive" />
-                                        </a>
-                                    </li>
-                                </ul>
-                                <ul class="c-works">
-                                    <li class="c-first">
-                                        <a href="#">
-                                            <img src="assets/base/img/content/stock/014.jpg" class="img-responsive" alt="" />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img src="assets/base/img/content/stock/011.jpg" class="img-responsive" alt="" />
-                                        </a>
-                                    </li>
-                                    <li class="c-last">
-                                        <a href="#">
-                                            <img src="assets/base/img/content/stock/15.jpg" class="img-responsive" alt="" />
-                                        </a>
-                                    </li>
-                                </ul>
-                                <ul class="c-works">
-                                    <li class="c-first">
-                                        <a href="#">
-                                            <img src="assets/base/img/content/stock/015.jpg" class="img-responsive" alt="" />
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img src="assets/base/img/content/stock/013.jpg" class="img-responsive" alt="" />
-                                        </a>
-                                    </li>
-                                    <li class="c-last">
-                                        <a href="#">
-                                            <img src="assets/base/img/content/stock/13.jpg" class="img-responsive" alt="" />
-                                        </a>
-                                    </li>
-                                </ul>
-                                <a href="#" class="btn btn-md c-btn-border-1x c-theme-btn c-btn-uppercase c-btn-square c-btn-bold c-read-more hide">View More</a>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="c-container c-last">
-                                <div class="c-content-title-1">
-                                    <h3 class="c-font-uppercase c-font-bold c-font-white">Find us</h3>
-                                    <div class="c-line-left hide"></div>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed elit diam nonummy ad minim.</p>
-                                </div>
-                                <ul class="c-socials">
-                                    <li>
-                                        <a href="#">
-                                            <i class="icon-social-facebook"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="icon-social-twitter"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="icon-social-youtube"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="icon-social-tumblr"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                                <ul class="c-address">
-                                    <li>
-                                        <i class="icon-pointer c-theme-font"></i> One Boulevard, Beverly Hills</li>
-                                    <li>
-                                        <i class="icon-call-end c-theme-font"></i> +1800 1234 5678</li>
-                                    <li>
-                                        <i class="icon-envelope c-theme-font"></i> email@example.com</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="c-postfooter">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-12 c-col">
-                            <p class="c-copyright c-font-grey">2015 &copy; JANGO
-                                <span class="c-font-grey-3">All Rights Reserved.</span>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
+
         <!-- END: LAYOUT/FOOTERS/FOOTER-5 -->
         <!-- BEGIN: LAYOUT/FOOTERS/GO2TOP -->
-        <div class="c-layout-go2top">
-            <i class="icon-arrow-up"></i>
-        </div>
+           <?php include("footer.php") ?>
         <!-- END: LAYOUT/FOOTERS/GO2TOP -->
         <!-- BEGIN: LAYOUT/BASE/BOTTOM -->
         <!-- BEGIN: CORE PLUGINS -->
         <!--[if lt IE 9]>
 	<script src="../assets/global/plugins/excanvas.min.js"></script> 
 	<![endif]-->
-        <script src="assets/plugins/jquery.min.js" type="text/javascript"></script>
+        
+
+      
         <script src="assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
         <script src="assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <script src="assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
@@ -369,10 +149,18 @@ Follow: http://www.twitter.com/themehats
         <script src="assets/base/js/components.js" type="text/javascript"></script>
         <script src="assets/base/js/components-shop.js" type="text/javascript"></script>
         <script src="assets/base/js/app.js" type="text/javascript"></script>
+        <script src="php_image/lib/js/chartphp.js"></script>
+
         <script>
             $(document).ready(function()
             {
                 App.init(); // init core    
+            });
+
+            jQuery(window).load(function(){
+              $("#c1").next("div").hide();
+              $("#c2").next("div").hide();
+              $("#c3").next("div").hide();
             });
         </script>
         <!-- END: THEME SCRIPTS -->

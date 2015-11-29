@@ -37,7 +37,7 @@
 		<div class="container">
 			<div class="c-navbar-wrapper clearfix">
 				<div class="c-brand c-pull-left">
-					<a href="index.html" class="c-logo">
+					<a href="index.php" class="c-logo">
 						<img src="assets/base/img/layout/logos/logo-1.png" alt="新竹市政府" class="c-desktop-logo" style="margin:-10px 0px">
 						<img src="assets/base/img/layout/logos/logo-2.png" alt="新竹市政府" class="c-desktop-logo-inverse">
 						<img src="assets/base/img/layout/logos/logo-1.png" alt="新竹市政府" class="c-mobile-logo">
@@ -98,12 +98,7 @@
 						</li>
 
 						<li class="c-menu-type-classic">
-							<a href="javascript:;" class="c-link dropdown-toggle">徵才專區<span class="c-arrow c-toggler"></span></a>
-							
-							<ul class="dropdown-menu c-menu-type-classic c-pull-left">
-								<li class="dropdown-submenu"><a href="javascript:;">市長<span class="c-arrow c-toggler"></a></li>
-								<li class="dropdown-submenu"><a href="javascript:;">市府各部門介紹<span class="c-arrow c-toggler"></a></li>
-							</ul>
+							<a href="jobs.php" class="c-link dropdown-toggle">徵才專區<span class="c-arrow c-toggler"></span></a>
 						</li>
 							
 
