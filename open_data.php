@@ -14,7 +14,6 @@ Follow: http://www.twitter.com/themehats
     <!--<![endif]-->
     <!-- BEGIN HEAD -->
     <?php 
-    
       include("header.php");
     ?>
     <body class="c-layout-header-fixed c-layout-header-mobile-fixed">
