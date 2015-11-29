@@ -80,7 +80,7 @@
                     <div class="c-content-feature-10">
                         <!-- Begin: Title 1 component -->
                         <div class="c-content-title-1">
-                            <h3 class="c-font-uppercase c-center c-font-bold">市府網頁導覽</h3>
+                            <h3 class="c-font-uppercase c-center c-font-bold"><br>市府網頁導覽</h3>
                         </div>
                         <!-- End-->
                         <ul class="c-list">
@@ -123,7 +123,8 @@
                                     <i class="icon-present c-font-27 c-theme-font c-float-left c-border c-border-opacity"></i>
                                     <div class="c-content c-content-left">
                                         <h3 class="c-font-uppercase c-font-bold">主題服務</h3>
-                                        <p> 暫無</p>
+                                        <p>4.1 新竹市App <br>4.2 e好辦 <br>4.3 市長臉書 <br>4.4 服務中心 <br> 4.5 交通資訊 <br> 4.6 法律扶助 <br>4.7 更多服務
+										</p>
                                     </div>
                                 </div>
                                 <div class="c-border-bottom c-bg-opacity-2"></div>
@@ -145,8 +146,7 @@
                                 <div class="c-card">
                                     <i class="icon-support c-font-27 c-theme-font c-float-left c-border c-border-opacity"></i>
                                     <div class="c-content c-content-left">
-                                        <h3 class="c-font-uppercase c-font-bold">Stunning Customer Support</h3>
-                                        <p> Lorem ipsum dolor consetuer adipicing sed diam ticidut erat votpat dolore </p>
+                                        <h3 class="c-font-uppercase c-font-bold">市府快搜</h3>
                                     </div>
                                 </div>
                             </li>
