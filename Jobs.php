@@ -11,6 +11,7 @@
 
     <body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-topbar c-layout-header-topbar-collapse">
         <!-- BEGIN: CONTENT/USER/SIGNUP-FORM -->
+        <img src="assets/base/img/content/backgrounds/bg-35.jpg" alt="" style="width:100%; margin-top:-450px">
         <div class="modal fade c-content-login-form" id="signup-form" role="dialog">
             <div class="modal-dialog">
                 <div class="modal-content c-square">
