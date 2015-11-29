@@ -87,7 +87,7 @@
                         <ul class="c-list">
                             <li>
                                 <div class="c-card c-font-right">
-                                    <i class="icon-trophy c-font-27 c-theme-font c-float-right c-border c-border-opacity"></i>
+                                    <i class="icon-home c-font-27 c-theme-font c-float-right c-border c-border-opacity"></i>
                                     <div class="c-content c-content-right">
                                         <h3 class="c-font-uppercase c-font-bold">首頁</h3>
                                         <p>熱門新聞、活動 1.1</p>
@@ -117,8 +117,8 @@
                                     <i class="icon-globe-alt c-font-27 c-theme-font c-float-right c-border c-border-opacity"></i>
                                     <div class="c-content c-content-right">
                                         <h3 class="c-font-uppercase c-font-bold">市府介紹</h3>
-                                        <p>市長 3.1</p>
-										<p>各處部門 3.2</p>
+                                        <p>市長介紹 3.1</p>
+										<p>市府各部門介紹 3.2</p>
 									</div>
                                 </div>
                                 <div class="c-border-bottom c-bg-opacity-2"></div>
@@ -126,11 +126,17 @@
                             <div class="c-border-middle c-bg-opacity-2"></div>
                             <li class="c-border-grey-1-5">
                                 <div class="c-card">
-                                    <i class="icon-present c-font-27 c-theme-font c-float-left c-border c-border-opacity"></i>
+                                    <i class="icon-heart c-font-27 c-theme-font c-float-left c-border c-border-opacity"></i>
                                     <div class="c-content c-content-left">
                                         <h3 class="c-font-uppercase c-font-bold">主題服務</h3>
-                                        <p>4.1 新竹市App <br>4.2 e好辦 <br>4.3 市長臉書 <br>4.4 服務中心 <br> 4.5 交通資訊 <br> 4.6 法律扶助 <br>4.7 更多服務
-										</p>
+                                        <p>4.1 新竹市 APP</p>
+                                        <p>4.2 E 好辦</p>
+                                        <p>4.3 市長臉書</p>
+                                        <p>4.4 服務中心</p>
+                                        <p>4.5 服務專線</p>
+                                        <p>4.6 服務信箱</p>   
+                                        <p>4.5 交通資訊</p>
+                                        <p>4.6 法律扶助</p>
                                     </div>
                                 </div>
                                 <div class="c-border-bottom c-bg-opacity-2"></div>
@@ -139,10 +145,9 @@
                         <ul class="c-list">
                             <li>
                                 <div class="c-card c-font-right">
-                                    <i class="icon-book-open c-font-27 c-theme-font c-float-right c-border c-border-opacity"></i>
+                                    <i class="icon-user c-font-27 c-theme-font c-float-right c-border c-border-opacity"></i>
                                     <div class="c-content c-content-right">
                                         <h3 class="c-font-uppercase c-font-bold">徵才專區</h3>
-                                        <p> 前往徵才專區 </p>
                                     </div>
                                 </div>
                                 <div class="c-border-bottom c-bg-opacity-2 c-mobile"></div>
@@ -150,7 +155,7 @@
                             <div class="c-border-middle c-bg-opacity-2"></div>
                             <li>
                                 <div class="c-card">
-                                    <i class="icon-support c-font-27 c-theme-font c-float-left c-border c-border-opacity"></i>
+                                    <i class="icon-eye c-font-27 c-theme-font c-float-left c-border c-border-opacity"></i>
                                     <div class="c-content c-content-left">
                                         <h3 class="c-font-uppercase c-font-bold">市府快搜</h3>
                                     </div>
