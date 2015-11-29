@@ -281,7 +281,7 @@ Follow: http://www.twitter.com/themehats
                                     <div class="c-content-overlay">
                                         <div class="c-overlay-wrapper">
                                             <div class="c-overlay-content">
-                                                <a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+                                                <a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">我有興趣</a>
                                             </div>
                                         </div>
                                         <div class="c-bg-img-top-center c-overlay-object " data-height="height">
@@ -321,7 +321,7 @@ Follow: http://www.twitter.com/themehats
                                     <div class="c-content-overlay">
                                         <div class="c-overlay-wrapper">
                                             <div class="c-overlay-content">
-                                                <a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+                                                <a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">我有興趣</a>
                                             </div>
                                         </div>
                                         <div class="c-bg-img-top-center c-overlay-object " data-height="height">
@@ -361,7 +361,7 @@ Follow: http://www.twitter.com/themehats
                                     <div class="c-content-overlay">
                                         <div class="c-overlay-wrapper">
                                             <div class="c-overlay-content">
-                                                <a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+                                                <a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">我有興趣</a>
                                             </div>
                                         </div>
                                         <div class="c-bg-img-top-center c-overlay-object " data-height="height">
@@ -401,7 +401,7 @@ Follow: http://www.twitter.com/themehats
                                     <div class="c-content-overlay">
                                         <div class="c-overlay-wrapper">
                                             <div class="c-overlay-content">
-                                                <a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+                                                <a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">我有興趣</a>
                                             </div>
                                         </div>
                                         <div class="c-bg-img-top-center c-overlay-object " data-height="height">
@@ -441,7 +441,7 @@ Follow: http://www.twitter.com/themehats
                                     <div class="c-content-overlay">
                                         <div class="c-overlay-wrapper">
                                             <div class="c-overlay-content">
-                                                <a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+                                                <a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">我有興趣</a>
                                             </div>
                                         </div>
                                         <div class="c-bg-img-top-center c-overlay-object " data-height="height">
@@ -481,7 +481,7 @@ Follow: http://www.twitter.com/themehats
                                     <div class="c-content-overlay">
                                         <div class="c-overlay-wrapper">
                                             <div class="c-overlay-content">
-                                                <a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">Explore</a>
+                                                <a href="shop-product-details-2.html" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">我有興趣</a>
                                             </div>
                                         </div>
                                         <div class="c-bg-img-top-center c-overlay-object " data-height="height">
