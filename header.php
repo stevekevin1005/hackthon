@@ -65,9 +65,6 @@
 				<!-- Dropdown menu toggle on mobile: c-toggler class can be applied to the link arrow or link itself depending on toggle mode -->
 				<nav class="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-theme c-fonts-uppercase c-fonts-bold">
 					<ul class="nav navbar-nav c-theme-nav">
-						<li class="c-menu-type-classic">
-							<a href="guide.php" class="c-link dropdown-toggle">網頁導覽</a>
-						</li>
 
 						<li class="c-menu-type-classic c-active">
 								<a href="index.php" class="c-link dropdown-toggle">首頁</a>
@@ -77,7 +74,7 @@
 							<a href="javascript:;" class="c-link dropdown-toggle">公告資訊<span class="c-arrow c-toggler"></span></a>
 							
 							<ul class="dropdown-menu c-menu-type-classic c-pull-left">
-								<li class="dropdown-submenu"><a href="javascript:;">市政新聞<span class="c-arrow c-toggler"></a></li>
+								<li class="dropdown-submenu"><a href="news.php">市政新聞<span class="c-arrow c-toggler"></a></li>
 								<li class="dropdown-submenu"><a href="standard_case.php">政府標案<span class="c-arrow c-toggler"></span></a></li>
 								<li class="dropdown-submenu"><a href="open_data.php">公開資料<span class="c-arrow c-toggler"></span></a></li>
 							</ul>
@@ -87,7 +84,7 @@
 							<a href="javascript:;" class="c-link dropdown-toggle">市府介紹<span class="c-arrow c-toggler"></span></a>
 							
 							<ul class="dropdown-menu c-menu-type-classic c-pull-left">
-								<li class="dropdown-submenu"><a href="page_person.php">市長<span class="c-arrow c-toggler"></a></li>
+								<li class="dropdown-submenu"><a href="page_person.php">市長介紹<span class="c-arrow c-toggler"></a></li>
 								<li class="dropdown-submenu"><a href="all_department.php">市府各部門介紹<span class="c-arrow c-toggler"></a></li>
 							</ul>
 						</li>
@@ -112,7 +109,10 @@
 						<li class="c-menu-type-classic">
 							<a href="jobs.php" class="c-link dropdown-toggle">徵才專區<span class="c-arrow c-toggler"></span></a>
 						</li>
-							
+
+						<li class="c-menu-type-classic">
+							<a href="guide.php" class="c-link dropdown-toggle">網頁導覽</a>
+						</li>
 
 						<li class="c-search-toggler-wrapper">
 								<a href="#" class="c-btn-icon c-search-toggler">
