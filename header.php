@@ -74,7 +74,7 @@
 							<a href="javascript:;" class="c-link dropdown-toggle">公告資訊<span class="c-arrow c-toggler"></span></a>
 							
 							<ul class="dropdown-menu c-menu-type-classic c-pull-left">
-								<li class="dropdown-submenu"><a href="javascript:;">市政新聞<span class="c-arrow c-toggler"></a></li>
+								<li class="dropdown-submenu"><a href="news.php">市政新聞<span class="c-arrow c-toggler"></a></li>
 								<li class="dropdown-submenu"><a href="standard_case.php">政府標案<span class="c-arrow c-toggler"></span></a></li>
 								<li class="dropdown-submenu"><a href="open_data.php">公開資料<span class="c-arrow c-toggler"></span></a></li>
 							</ul>

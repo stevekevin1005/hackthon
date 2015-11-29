@@ -15,6 +15,7 @@ Follow: http://www.twitter.com/themehats
     <!-- BEGIN HEAD -->
 <?php include("header.php");?>
     <body class="c-layout-header-fixed c-layout-header-mobile-fixed">
+        <img src="assets/base/img/content/backgrounds/bg-21.jpg" alt="" style="width:100%; margin-top:-450px">
         <!-- BEGIN: LAYOUT/HEADERS/HEADER-1 -->
         <!-- BEGIN: HEADER -->
 		<!-- END: HEADER -->
@@ -46,7 +47,7 @@ Follow: http://www.twitter.com/themehats
 									<p>行政處</p>
 									</a>
                                     <ul class="c-content-list-1 c-separator-dot">
-                                        <li class="c-bg-before-yellow">麗池清淤工程現勘<a href =component-tabs.php>......(more)</a></li>
+                                        <li class="c-bg-before-yellow">麗池清淤工程現勘<a href ="news_detail.php">......(more)</a></li>
                                         <li class="c-bg-before-red"><a href =component-tabs.php>消息二</a></li>
                                         <li class="c-bg-before-green"><a href =component-tabs.php>消息三</a></li>
                                         <li class="c-bg-before-blue"><a href =component-tabs.php>消息四</a></li>
