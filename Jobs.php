@@ -522,9 +522,8 @@ Follow: http://www.twitter.com/themehats
         <!-- END: PAGE CONTAINER -->
         
         <!-- BEGIN: LAYOUT/FOOTERS/GO2TOP -->
-        <div class="c-layout-go2top">
-            <i class="icon-arrow-up"></i>
-        </div>
+        <?php include("footer.php") ?>
+		
         <!-- END: LAYOUT/FOOTERS/GO2TOP -->
         <!-- BEGIN: LAYOUT/BASE/BOTTOM -->
         <!-- BEGIN: CORE PLUGINS -->
