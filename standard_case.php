@@ -23,6 +23,7 @@ Follow: http://www.twitter.com/themehats
 
         <!-- BEGIN: PAGE CONTAINER -->
         <div class="c-layout-page">
+          <img src="assets/base/img/content/backgrounds/bg-24.jpg" alt="" style="width:100%; margin-top:-550px">
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-1 -->
             <div class="c-layout-breadcrumbs-1 c-fonts-uppercase c-fonts-bold">
                 <div class="container">
