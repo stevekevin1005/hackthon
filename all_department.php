@@ -60,14 +60,44 @@ Follow: http://www.twitter.com/themehats
                                             <a href="page_team.php" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">關心您的日常生活</a>
                                         </div>
                                     </div>
-                                    <div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url(assets/base/img/content/shop3/58.jpg);"></div>
+                                    <div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url(assets/base/img/content/dep/mgs.png);"></div>
                                 </div>
                                 <div class="c-info">
                                     <p class="c-title c-font-18 c-font-slim" style="text-align:center">民政處</p>
                                 </div>
                             </div>
                         </div>
-                    </div>
+						<div class="col-md-3 col-sm-6 c-margin-b-20">
+                            <div class="c-content-product-2 c-bg-white">
+                                <div class="c-content-overlay">
+                                    <div class="c-overlay-wrapper">
+                                        <div class="c-overlay-content">
+                                            <a href="page_team.php" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">關心您的交通安全</a>
+                                        </div>
+                                    </div>
+                                    <div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url(assets/base/img/content/dep/tra.jpg);"></div>
+                                </div>
+                                <div class="c-info">
+                                    <p class="c-title c-font-18 c-font-slim" style="text-align:center">交通部</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="col-md-3 col-sm-6 c-margin-b-20">
+                            <div class="c-content-product-2 c-bg-white">
+                                <div class="c-content-overlay">
+                                    <div class="c-overlay-wrapper">
+                                        <div class="c-overlay-content">
+                                            <a href="page_team.php" class="btn btn-md c-btn-grey-1 c-btn-uppercase c-btn-bold c-btn-border-1x c-btn-square">一起來關心地球</a>
+                                        </div>
+                                    </div>
+                                    <div class="c-bg-img-center c-overlay-object" data-height="height" style="height: 270px; background-image: url(assets/base/img/content/dep/env.jpg);"></div>
+                                </div>
+                                <div class="c-info">
+                                    <p class="c-title c-font-18 c-font-slim" style="text-align:center">環保局</p>
+                                </div>
+                            </div>
+                        </div>
+						
                 </div>
             </div>
             <!-- END: CONTENT/SHOPS/SHOP-2-1 -->
