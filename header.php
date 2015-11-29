@@ -40,8 +40,13 @@
 					<a href="index.php" class="c-logo">
 						<img src="assets/base/img/layout/logos/logo-1.png" alt="新竹市政府" class="c-desktop-logo" style="margin:-10px 0px">
 						<img src="assets/base/img/layout/logos/logo-2.png" alt="新竹市政府" class="c-desktop-logo-inverse">
-						<img src="assets/base/img/layout/logos/logo-1.png" alt="新竹市政府" class="c-mobile-logo">
+						<img src="assets/base/img/layout/logos/logo-1.png" alt="新竹市政府" class="c-mobile-logo" style="margin:-10px 0px">
 					</a>
+					<button class="c-hor-nav-toggler" type="button" data-target=".c-mega-menu">
+              <span class="c-line"></span>
+              <span class="c-line"></span>
+              <span class="c-line"></span>
+          </button>
 					<button class="c-search-toggler" type="button">
 							<i class="fa fa-search"></i>
 					</button>
@@ -73,7 +78,6 @@
 							
 							<ul class="dropdown-menu c-menu-type-classic c-pull-left">
 								<li class="dropdown-submenu"><a href="javascript:;">市政新聞<span class="c-arrow c-toggler"></a></li>
-								<li class="dropdown-submenu"><a href="javascript:;">科技園區<span class="c-arrow c-toggler"></a></li>
 								<li class="dropdown-submenu"><a href="standard_case.php">案子發包<span class="c-arrow c-toggler"></span></a></li>
 								<li class="dropdown-submenu"><a href="open_data.php">公開資料<span class="c-arrow c-toggler"></span></a></li>
 							</ul>

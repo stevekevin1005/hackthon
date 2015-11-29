@@ -17,11 +17,9 @@ Follow: http://www.twitter.com/themehats
       include("header.php");
     ?>
     <body class="c-layout-header-fixed c-layout-header-mobile-fixed">
-        <!-- BEGIN: LAYOUT/HEADERS/HEADER-1 -->
-        <!-- END: LAYOUT/HEADERS/HEADER-1 -->
-
         <!-- BEGIN: PAGE CONTAINER -->
         <div class="c-layout-page">
+          <img src="assets/base/img/content/stock3/15.jpg" alt="" style="width:100%; margin-top:-820px">
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-1 -->
             <div class="c-layout-breadcrumbs-1 c-fonts-uppercase c-fonts-bold">
                 <div class="container">
